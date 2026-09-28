@@ -1,0 +1,760 @@
+﻿indicateur,decoupage_administratif,sexe,unit,annee,valeur,geo_normalisee,niveau_administratif
+Population résidente par découpage administratif et par sexe,TOGO,Total,Nombre,2022,8095498,TOGO,national
+Population résidente par découpage administratif et par sexe,SAVANES,Total,Nombre,2022,1143520,SAVANES,region
+Population résidente par découpage administratif et par sexe,KARA,Total,Nombre,2022,985512,KARA,region
+Population résidente par découpage administratif et par sexe,CENTRALE,Total,Nombre,2022,795529,CENTRALE,region
+Population résidente par découpage administratif et par sexe,PLATEAUX,Total,Nombre,2022,1635946,PLATEAUX,region
+Population résidente par découpage administratif et par sexe,MARITIME,Total,Nombre,2022,1346615,MARITIME,region
+Population résidente par découpage administratif et par sexe,GOLFE,Total,Nombre,2022,1305681,GOLFE,region
+Population résidente par découpage administratif et par sexe,TONE,Total,Nombre,2022,388775,TONE,sous_region
+Population résidente par découpage administratif et par sexe,TONE 1,Total,Nombre,2022,211743,TONE 1,sous_region
+Population résidente par découpage administratif et par sexe,DAPAONG,Total,Nombre,2022,144711,DAPAONG,sous_region
+Population résidente par découpage administratif et par sexe,KOURIENTRE,Total,Nombre,2022,12224,KOURIENTRE,sous_region
+Population résidente par découpage administratif et par sexe,POISSONGUI,Total,Nombre,2022,6155,POISSONGUI,sous_region
+Population résidente par découpage administratif et par sexe,NATIGOU,Total,Nombre,2022,11234,NATIGOU,sous_region
+Population résidente par découpage administratif et par sexe,TOAGA,Total,Nombre,2022,13494,TOAGA,sous_region
+Population résidente par découpage administratif et par sexe,PANA,Total,Nombre,2022,13279,PANA,sous_region
+Population résidente par découpage administratif et par sexe,BIDJENGA,Total,Nombre,2022,10646,BIDJENGA,sous_region
+Population résidente par découpage administratif et par sexe,TONE 2,Total,Nombre,2022,50179,TONE 2,sous_region
+Population résidente par découpage administratif et par sexe,NAKI-OUEST,Total,Nombre,2022,24016,NAKI-OUEST,sous_region
+Population résidente par découpage administratif et par sexe,NAMARE,Total,Nombre,2022,12103,NAMARE,sous_region
+Population résidente par découpage administratif et par sexe,NANERGOU,Total,Nombre,2022,14060,NANERGOU,sous_region
+Population résidente par découpage administratif et par sexe,TONE 3,Total,Nombre,2022,60276,TONE 3,sous_region
+Population résidente par découpage administratif et par sexe,TAMI,Total,Nombre,2022,20619,TAMI,sous_region
+Population résidente par découpage administratif et par sexe,NIOUKPOURMA,Total,Nombre,2022,17991,NIOUKPOURMA,sous_region
+Population résidente par découpage administratif et par sexe,LOTOGOU,Total,Nombre,2022,14432,LOTOGOU,sous_region
+Population résidente par découpage administratif et par sexe,WARKAMBOU,Total,Nombre,2022,7234,WARKAMBOU,sous_region
+Population résidente par découpage administratif et par sexe,TONE 4,Total,Nombre,2022,66577,TONE 4,sous_region
+Population résidente par découpage administratif et par sexe,KORBONGOU,Total,Nombre,2022,25609,KORBONGOU,sous_region
+Population résidente par découpage administratif et par sexe,LOUANGA,Total,Nombre,2022,11434,LOUANGA,sous_region
+Population résidente par découpage administratif et par sexe,KANTINDI,Total,Nombre,2022,14016,KANTINDI,sous_region
+Population résidente par découpage administratif et par sexe,SANFATOUTE,Total,Nombre,2022,15518,SANFATOUTE,sous_region
+Population résidente par découpage administratif et par sexe,CINKASSE,Total,Nombre,2022,128959,CINKASSE,sous_region
+Population résidente par découpage administratif et par sexe,CINKASSE 1,Total,Nombre,2022,75992,CINKASSE 1,sous_region
+Population résidente par découpage administratif et par sexe,CINKASSE,Total,Nombre,2022,63226,CINKASSE,sous_region
+Population résidente par découpage administratif et par sexe,BOADE,Total,Nombre,2022,7403,BOADE,sous_region
+Population résidente par découpage administratif et par sexe,GNOAGA,Total,Nombre,2022,1656,GNOAGA,sous_region
+Population résidente par découpage administratif et par sexe,GOULOUNGOUSSI,Total,Nombre,2022,3707,GOULOUNGOUSSI,sous_region
+Population résidente par découpage administratif et par sexe,CINKASSE 2,Total,Nombre,2022,52967,CINKASSE 2,sous_region
+Population résidente par découpage administratif et par sexe,TIMBOU,Total,Nombre,2022,21709,TIMBOU,sous_region
+Population résidente par découpage administratif et par sexe,SAM-NABA,Total,Nombre,2022,9361,SAM-NABA,sous_region
+Population résidente par découpage administratif et par sexe,NADJOUNDI,Total,Nombre,2022,10140,NADJOUNDI,sous_region
+Population résidente par découpage administratif et par sexe,BIANKOURI,Total,Nombre,2022,11757,BIANKOURI,sous_region
+Population résidente par découpage administratif et par sexe,KPENDJAL-OUEST,Total,Nombre,2022,123330,KPENDJAL-OUEST,sous_region
+Population résidente par découpage administratif et par sexe,KPENDJAL-OUEST 1,Total,Nombre,2022,56459,KPENDJAL-OUEST 1,sous_region
+Population résidente par découpage administratif et par sexe,NAKI-EST,Total,Nombre,2022,24761,NAKI-EST,sous_region
+Population résidente par découpage administratif et par sexe,NAYEGA,Total,Nombre,2022,19235,NAYEGA,sous_region
+Population résidente par découpage administratif et par sexe,OGARO,Total,Nombre,2022,12463,OGARO,sous_region
+Population résidente par découpage administratif et par sexe,KPENDJAL-OUEST 2,Total,Nombre,2022,66871,KPENDJAL-OUEST 2,sous_region
+Population résidente par découpage administratif et par sexe,POGNO,Total,Nombre,2022,15448,POGNO,sous_region
+Population résidente par découpage administratif et par sexe,NAMOUNDJOGA,Total,Nombre,2022,17896,NAMOUNDJOGA,sous_region
+Population résidente par découpage administratif et par sexe,TAMBONGA,Total,Nombre,2022,18709,TAMBONGA,sous_region
+Population résidente par découpage administratif et par sexe,PAPRI,Total,Nombre,2022,14818,PAPRI,sous_region
+Population résidente par découpage administratif et par sexe,KPENDJAL,Total,Nombre,2022,88365,KPENDJAL,sous_region
+Population résidente par découpage administratif et par sexe,KPENDJAL 1,Total,Nombre,2022,47903,KPENDJAL 1,sous_region
+Population résidente par découpage administratif et par sexe,MANDOURI,Total,Nombre,2022,20616,MANDOURI,sous_region
+Population résidente par découpage administratif et par sexe,TAMBIGOU,Total,Nombre,2022,9361,TAMBIGOU,sous_region
+Population résidente par découpage administratif et par sexe,KOUNDJOARE,Total,Nombre,2022,17926,KOUNDJOARE,sous_region
+Population résidente par découpage administratif et par sexe,KPENDJAL 2,Total,Nombre,2022,40462,KPENDJAL 2,sous_region
+Population résidente par découpage administratif et par sexe,BORGOU,Total,Nombre,2022,40462,BORGOU,sous_region
+Population résidente par découpage administratif et par sexe,OTI-SUD,Total,Nombre,2022,150376,OTI-SUD,sous_region
+Population résidente par découpage administratif et par sexe,OTI-SUD 1,Total,Nombre,2022,106052,OTI-SUD 1,sous_region
+Population résidente par découpage administratif et par sexe,GANDO,Total,Nombre,2022,41374,GANDO,sous_region
+Population résidente par découpage administratif et par sexe,SAGBIEBOU,Total,Nombre,2022,20370,SAGBIEBOU,sous_region
+Population résidente par découpage administratif et par sexe,MOGOU,Total,Nombre,2022,30442,MOGOU,sous_region
+Population résidente par découpage administratif et par sexe,TCHAMONGA,Total,Nombre,2022,13866,TCHAMONGA,sous_region
+Population résidente par découpage administratif et par sexe,OTI-SUD 2,Total,Nombre,2022,44324,OTI-SUD 2,sous_region
+Population résidente par découpage administratif et par sexe,TAKPAMBA,Total,Nombre,2022,12423,TAKPAMBA,sous_region
+Population résidente par découpage administratif et par sexe,NALI,Total,Nombre,2022,11284,NALI,sous_region
+Population résidente par découpage administratif et par sexe,KOUMONGOU,Total,Nombre,2022,7167,KOUMONGOU,sous_region
+Population résidente par découpage administratif et par sexe,KOUNTOIRE,Total,Nombre,2022,13450,KOUNTOIRE,sous_region
+Population résidente par découpage administratif et par sexe,OTI,Total,Nombre,2022,124848,OTI,sous_region
+Population résidente par découpage administratif et par sexe,OTI 1,Total,Nombre,2022,54479,OTI 1,sous_region
+Population résidente par découpage administratif et par sexe,MANGO,Total,Nombre,2022,41803,MANGO,sous_region
+Population résidente par découpage administratif et par sexe,SADORI,Total,Nombre,2022,8100,SADORI,sous_region
+Population résidente par découpage administratif et par sexe,FARE,Total,Nombre,2022,4576,FARE,sous_region
+Population résidente par découpage administratif et par sexe,OTI 2,Total,Nombre,2022,70369,OTI 2,sous_region
+Population résidente par découpage administratif et par sexe,BARKOISSI,Total,Nombre,2022,21060,BARKOISSI,sous_region
+Population résidente par découpage administratif et par sexe,GALANGASHIE,Total,Nombre,2022,14810,GALANGASHIE,sous_region
+Population résidente par découpage administratif et par sexe,TCHANAGA,Total,Nombre,2022,8973,TCHANAGA,sous_region
+Population résidente par découpage administratif et par sexe,NAGBENI,Total,Nombre,2022,19607,NAGBENI,sous_region
+Population résidente par découpage administratif et par sexe,LOKO,Total,Nombre,2022,5919,LOKO,sous_region
+Population résidente par découpage administratif et par sexe,TANDJOARE,Total,Nombre,2022,138867,TANDJOARE,sous_region
+Population résidente par découpage administratif et par sexe,TANDJOARE 1,Total,Nombre,2022,74692,TANDJOARE 1,sous_region
+Population résidente par découpage administratif et par sexe,NANDOGA,Total,Nombre,2022,6334,NANDOGA,sous_region
+Population résidente par découpage administratif et par sexe,BOMBOUAKA,Total,Nombre,2022,10769,BOMBOUAKA,sous_region
+Population résidente par découpage administratif et par sexe,PLIGOU,Total,Nombre,2022,7042,PLIGOU,sous_region
+Population résidente par découpage administratif et par sexe,BOULOGOU,Total,Nombre,2022,6101,BOULOGOU,sous_region
+Population résidente par découpage administratif et par sexe,LOKO,Total,Nombre,2022,6187,LOKO,sous_region
+Population résidente par découpage administratif et par sexe,TAMONGUE,Total,Nombre,2022,21405,TAMONGUE,sous_region
+Population résidente par découpage administratif et par sexe,BOGOU,Total,Nombre,2022,10506,BOGOU,sous_region
+Population résidente par découpage administratif et par sexe,GOUNDOGA,Total,Nombre,2022,6348,GOUNDOGA,sous_region
+Population résidente par découpage administratif et par sexe,TANDJOARE 2,Total,Nombre,2022,64175,TANDJOARE 2,sous_region
+Population résidente par découpage administratif et par sexe,NANO,Total,Nombre,2022,17093,NANO,sous_region
+Population résidente par découpage administratif et par sexe,DOUKPERGOU,Total,Nombre,2022,7026,DOUKPERGOU,sous_region
+Population résidente par découpage administratif et par sexe,LOKPANO,Total,Nombre,2022,6025,LOKPANO,sous_region
+Population résidente par découpage administratif et par sexe,SANGOU,Total,Nombre,2022,2620,SANGOU,sous_region
+Population résidente par découpage administratif et par sexe,MAMPROUGOU,Total,Nombre,2022,6331,MAMPROUGOU,sous_region
+Population résidente par découpage administratif et par sexe,BAGOU,Total,Nombre,2022,2390,BAGOU,sous_region
+Population résidente par découpage administratif et par sexe,TAMPIALIME,Total,Nombre,2022,14347,TAMPIALIME,sous_region
+Population résidente par découpage administratif et par sexe,SISSIAK,Total,Nombre,2022,8343,SISSIAK,sous_region
+Population résidente par découpage administratif et par sexe,KOZAH,Total,Nombre,2022,283738,KOZAH,sous_region
+Population résidente par découpage administratif et par sexe,KOZAH 1,Total,Nombre,2022,193625,KOZAH 1,sous_region
+Population résidente par découpage administratif et par sexe,LAMA,Total,Nombre,2022,161176,LAMA,sous_region
+Population résidente par découpage administratif et par sexe,LASSA,Total,Nombre,2022,12999,LASSA,sous_region
+Population résidente par découpage administratif et par sexe,SOUMDINA,Total,Nombre,2022,9274,SOUMDINA,sous_region
+Population résidente par découpage administratif et par sexe,LANDA,Total,Nombre,2022,10176,LANDA,sous_region
+Population résidente par découpage administratif et par sexe,KOZAH 2,Total,Nombre,2022,45704,KOZAH 2,sous_region
+Population résidente par découpage administratif et par sexe,PYA,Total,Nombre,2022,11398,PYA,sous_region
+Population résidente par découpage administratif et par sexe,KOUMEA,Total,Nombre,2022,7489,KOUMEA,sous_region
+Population résidente par découpage administratif et par sexe,TCHARE,Total,Nombre,2022,2301,TCHARE,sous_region
+Population résidente par découpage administratif et par sexe,BOHOU,Total,Nombre,2022,6739,BOHOU,sous_region
+Population résidente par découpage administratif et par sexe,YADE,Total,Nombre,2022,4301,YADE,sous_region
+Population résidente par découpage administratif et par sexe,TCHITCHAO,Total,Nombre,2022,7427,TCHITCHAO,sous_region
+Population résidente par découpage administratif et par sexe,SARAKAWA,Total,Nombre,2022,6049,SARAKAWA,sous_region
+Population résidente par découpage administratif et par sexe,KOZAH 3,Total,Nombre,2022,23755,KOZAH 3,sous_region
+Population résidente par découpage administratif et par sexe,AWANDJELO,Total,Nombre,2022,12147,AWANDJELO,sous_region
+Population résidente par découpage administratif et par sexe,KPINZINDE,Total,Nombre,2022,11608,KPINZINDE,sous_region
+Population résidente par découpage administratif et par sexe,KOZAH 4,Total,Nombre,2022,20654,KOZAH 4,sous_region
+Population résidente par découpage administratif et par sexe,ATCHANGBADE,Total,Nombre,2022,16876,ATCHANGBADE,sous_region
+Population résidente par découpage administratif et par sexe,DJAMDE,Total,Nombre,2022,3778,DJAMDE,sous_region
+Population résidente par découpage administratif et par sexe,ASSOLI,Total,Nombre,2022,66394,ASSOLI,sous_region
+Population résidente par découpage administratif et par sexe,ASSOLI 1,Total,Nombre,2022,40417,ASSOLI 1,sous_region
+Population résidente par découpage administratif et par sexe,BAFILO,Total,Nombre,2022,27038,BAFILO,sous_region
+Population résidente par découpage administratif et par sexe,BOULADE,Total,Nombre,2022,5384,BOULADE,sous_region
+Population résidente par découpage administratif et par sexe,DAKO/DAOUDE,Total,Nombre,2022,7995,DAKO/DAOUDE,sous_region
+Population résidente par découpage administratif et par sexe,ASSOLI 2,Total,Nombre,2022,9933,ASSOLI 2,sous_region
+Population résidente par découpage administratif et par sexe,ALEDJO,Total,Nombre,2022,4809,ALEDJO,sous_region
+Population résidente par découpage administratif et par sexe,KOUMONDE,Total,Nombre,2022,5124,KOUMONDE,sous_region
+Population résidente par découpage administratif et par sexe,ASSOLI 3,Total,Nombre,2022,16044,ASSOLI 3,sous_region
+Population résidente par découpage administratif et par sexe,SOUDOU,Total,Nombre,2022,16044,SOUDOU,sous_region
+Population résidente par découpage administratif et par sexe,BASSAR,Total,Nombre,2022,152065,BASSAR,sous_region
+Population résidente par découpage administratif et par sexe,BASSAR 1,Total,Nombre,2022,65059,BASSAR 1,sous_region
+Population résidente par découpage administratif et par sexe,BASSAR,Total,Nombre,2022,45846,BASSAR,sous_region
+Population résidente par découpage administratif et par sexe,BAGHAN,Total,Nombre,2022,11814,BAGHAN,sous_region
+Population résidente par découpage administratif et par sexe,KALANGA,Total,Nombre,2022,7399,KALANGA,sous_region
+Population résidente par découpage administratif et par sexe,BASSAR 2,Total,Nombre,2022,36476,BASSAR 2,sous_region
+Population résidente par découpage administratif et par sexe,BANGELI,Total,Nombre,2022,15571,BANGELI,sous_region
+Population résidente par découpage administratif et par sexe,BITCHABE,Total,Nombre,2022,7142,BITCHABE,sous_region
+Population résidente par découpage administratif et par sexe,DIMORI,Total,Nombre,2022,13763,DIMORI,sous_region
+Population résidente par découpage administratif et par sexe,BASSAR 3,Total,Nombre,2022,33873,BASSAR 3,sous_region
+Population résidente par découpage administratif et par sexe,KABOU,Total,Nombre,2022,26604,KABOU,sous_region
+Population résidente par découpage administratif et par sexe,MANGA,Total,Nombre,2022,7269,MANGA,sous_region
+Population résidente par découpage administratif et par sexe,BASSAR 4,Total,Nombre,2022,16657,BASSAR 4,sous_region
+Population résidente par découpage administratif et par sexe,SANDA-KAGBANDA,Total,Nombre,2022,10642,SANDA-KAGBANDA,sous_region
+Population résidente par découpage administratif et par sexe,SANDA-AFOHOU,Total,Nombre,2022,6015,SANDA-AFOHOU,sous_region
+Population résidente par découpage administratif et par sexe,DANKPEN,Total,Nombre,2022,185662,DANKPEN,sous_region
+Population résidente par découpage administratif et par sexe,DANKPEN 1,Total,Nombre,2022,76294,DANKPEN 1,sous_region
+Population résidente par découpage administratif et par sexe,GUERIN-KOUKA,Total,Nombre,2022,48399,GUERIN-KOUKA,sous_region
+Population résidente par découpage administratif et par sexe,NAMPOCH,Total,Nombre,2022,9256,NAMPOCH,sous_region
+Population résidente par découpage administratif et par sexe,KATCHAMBA,Total,Nombre,2022,9121,KATCHAMBA,sous_region
+Population résidente par découpage administratif et par sexe,KOULFIEKOU,Total,Nombre,2022,9518,KOULFIEKOU,sous_region
+Population résidente par découpage administratif et par sexe,DANKPEN 2,Total,Nombre,2022,32716,DANKPEN 2,sous_region
+Population résidente par découpage administratif et par sexe,NAMON,Total,Nombre,2022,9389,NAMON,sous_region
+Population résidente par découpage administratif et par sexe,NATCHIBORE,Total,Nombre,2022,11741,NATCHIBORE,sous_region
+Population résidente par découpage administratif et par sexe,NATCHITIKPI,Total,Nombre,2022,7844,NATCHITIKPI,sous_region
+Population résidente par découpage administratif et par sexe,KOUTCHITCHEOU,Total,Nombre,2022,3742,KOUTCHITCHEOU,sous_region
+Population résidente par découpage administratif et par sexe,DANKPEN 3,Total,Nombre,2022,76652,DANKPEN 3,sous_region
+Population résidente par découpage administratif et par sexe,BAPURE,Total,Nombre,2022,25428,BAPURE,sous_region
+Population résidente par découpage administratif et par sexe,NANDOUTA,Total,Nombre,2022,14114,NANDOUTA,sous_region
+Population résidente par découpage administratif et par sexe,NAWARE,Total,Nombre,2022,18253,NAWARE,sous_region
+Population résidente par découpage administratif et par sexe,KIDJABOUN,Total,Nombre,2022,18857,KIDJABOUN,sous_region
+Population résidente par découpage administratif et par sexe,KERAN,Total,Nombre,2022,128687,KERAN,sous_region
+Population résidente par découpage administratif et par sexe,KERAN 1,Total,Nombre,2022,44399,KERAN 1,sous_region
+Population résidente par découpage administratif et par sexe,KANDE,Total,Nombre,2022,26266,KANDE,sous_region
+Population résidente par découpage administratif et par sexe,AKPONTE,Total,Nombre,2022,8877,AKPONTE,sous_region
+Population résidente par découpage administratif et par sexe,PESSIDE,Total,Nombre,2022,9256,PESSIDE,sous_region
+Population résidente par découpage administratif et par sexe,KERAN 2,Total,Nombre,2022,53305,KERAN 2,sous_region
+Population résidente par découpage administratif et par sexe,ATALOTE,Total,Nombre,2022,17429,ATALOTE,sous_region
+Population résidente par découpage administratif et par sexe,OSSACRE,Total,Nombre,2022,19842,OSSACRE,sous_region
+Population résidente par découpage administratif et par sexe,HELOTA,Total,Nombre,2022,16034,HELOTA,sous_region
+Population résidente par découpage administratif et par sexe,KERAN 3,Total,Nombre,2022,30983,KERAN 3,sous_region
+Population résidente par découpage administratif et par sexe,NADOBA,Total,Nombre,2022,19878,NADOBA,sous_region
+Population résidente par découpage administratif et par sexe,WARENGO,Total,Nombre,2022,6315,WARENGO,sous_region
+Population résidente par découpage administratif et par sexe,KOUTOUGOU,Total,Nombre,2022,4790,KOUTOUGOU,sous_region
+Population résidente par découpage administratif et par sexe,DOUFELGOU,Total,Nombre,2022,84767,DOUFELGOU,sous_region
+Population résidente par découpage administratif et par sexe,DOUFELGOU 1,Total,Nombre,2022,44783,DOUFELGOU 1,sous_region
+Population résidente par découpage administratif et par sexe,NIAMTOUGOU,Total,Nombre,2022,6433,NIAMTOUGOU,sous_region
+Population résidente par découpage administratif et par sexe,AGBANDE-YAKA,Total,Nombre,2022,8915,AGBANDE-YAKA,sous_region
+Population résidente par découpage administratif et par sexe,BAGA,Total,Nombre,2022,5905,BAGA,sous_region
+Population résidente par découpage administratif et par sexe,KOKA,Total,Nombre,2022,3433,KOKA,sous_region
+Population résidente par découpage administratif et par sexe,TENEGA,Total,Nombre,2022,4303,TENEGA,sous_region
+Population résidente par découpage administratif et par sexe,SIOU,Total,Nombre,2022,8910,SIOU,sous_region
+Population résidente par découpage administratif et par sexe,POUDA,Total,Nombre,2022,3137,POUDA,sous_region
+Population résidente par découpage administratif et par sexe,MASSEDENA,Total,Nombre,2022,3747,MASSEDENA,sous_region
+Population résidente par découpage administratif et par sexe,DOUFELGOU 2,Total,Nombre,2022,11722,DOUFELGOU 2,sous_region
+Population résidente par découpage administratif et par sexe,DEFALE,Total,Nombre,2022,6938,DEFALE,sous_region
+Population résidente par découpage administratif et par sexe,KPAHA,Total,Nombre,2022,3692,KPAHA,sous_region
+Population résidente par découpage administratif et par sexe,ANIMA,Total,Nombre,2022,1092,ANIMA,sous_region
+Population résidente par découpage administratif et par sexe,DOUFELGOU 3,Total,Nombre,2022,28262,DOUFELGOU 3,sous_region
+Population résidente par découpage administratif et par sexe,KADJALLA,Total,Nombre,2022,9835,KADJALLA,sous_region
+Population résidente par découpage administratif et par sexe,TCHORE,Total,Nombre,2022,3982,TCHORE,sous_region
+Population résidente par découpage administratif et par sexe,ALLOUM,Total,Nombre,2022,10239,ALLOUM,sous_region
+Population résidente par découpage administratif et par sexe,LEON,Total,Nombre,2022,4206,LEON,sous_region
+Population résidente par découpage administratif et par sexe,BINAH,Total,Nombre,2022,84199,BINAH,sous_region
+Population résidente par découpage administratif et par sexe,BINAH 1,Total,Nombre,2022,44039,BINAH 1,sous_region
+Population résidente par découpage administratif et par sexe,PAGOUDA,Total,Nombre,2022,16870,PAGOUDA,sous_region
+Population résidente par découpage administratif et par sexe,LAMA-DESSI,Total,Nombre,2022,3932,LAMA-DESSI,sous_region
+Population résidente par découpage administratif et par sexe,PITIKITA,Total,Nombre,2022,1484,PITIKITA,sous_region
+Population résidente par découpage administratif et par sexe,PESSARE,Total,Nombre,2022,6329,PESSARE,sous_region
+Population résidente par découpage administratif et par sexe,BOUFALE,Total,Nombre,2022,5801,BOUFALE,sous_region
+Population résidente par découpage administratif et par sexe,SOLLA,Total,Nombre,2022,9623,SOLLA,sous_region
+Population résidente par découpage administratif et par sexe,BINAH2,Total,Nombre,2022,40160,BINAH2,sous_region
+Population résidente par découpage administratif et par sexe,KETAO,Total,Nombre,2022,25809,KETAO,sous_region
+Population résidente par découpage administratif et par sexe,KEMERIDA,Total,Nombre,2022,7182,KEMERIDA,sous_region
+Population résidente par découpage administratif et par sexe,SIRKA,Total,Nombre,2022,7169,SIRKA,sous_region
+Population résidente par découpage administratif et par sexe,TCHAOUDJO,Total,Nombre,2022,240360,TCHAOUDJO,sous_region
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 1,Total,Nombre,2022,177706,TCHAOUDJO 1,sous_region
+Population résidente par découpage administratif et par sexe,KOMAH,Total,Nombre,2022,91606,KOMAH,sous_region
+Population résidente par découpage administratif et par sexe,KPARATAO,Total,Nombre,2022,16588,KPARATAO,sous_region
+Population résidente par découpage administratif et par sexe,KADAMBARA,Total,Nombre,2022,23526,KADAMBARA,sous_region
+Population résidente par découpage administratif et par sexe,TCHALO,Total,Nombre,2022,8871,TCHALO,sous_region
+Population résidente par découpage administratif et par sexe,KPANGALAM,Total,Nombre,2022,37115,KPANGALAM,sous_region
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 2,Total,Nombre,2022,24891,TCHAOUDJO 2,sous_region
+Population résidente par découpage administratif et par sexe,LAMA-TESSI,Total,Nombre,2022,24891,LAMA-TESSI,sous_region
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 3,Total,Nombre,2022,17484,TCHAOUDJO 3,sous_region
+Population résidente par découpage administratif et par sexe,ALEHERIDE,Total,Nombre,2022,6123,ALEHERIDE,sous_region
+Population résidente par découpage administratif et par sexe,AMAIDE,Total,Nombre,2022,4338,AMAIDE,sous_region
+Population résidente par découpage administratif et par sexe,KEMENI,Total,Nombre,2022,2876,KEMENI,sous_region
+Population résidente par découpage administratif et par sexe,KOLINA,Total,Nombre,2022,4147,KOLINA,sous_region
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 4,Total,Nombre,2022,20279,TCHAOUDJO 4,sous_region
+Population résidente par découpage administratif et par sexe,AGOULOU,Total,Nombre,2022,13714,AGOULOU,sous_region
+Population résidente par découpage administratif et par sexe,KPASSOUADE,Total,Nombre,2022,3468,KPASSOUADE,sous_region
+Population résidente par découpage administratif et par sexe,WASSARABO,Total,Nombre,2022,3097,WASSARABO,sous_region
+Population résidente par découpage administratif et par sexe,TCHAMBA,Total,Nombre,2022,200585,TCHAMBA,sous_region
+Population résidente par découpage administratif et par sexe,TCHAMBA 1,Total,Nombre,2022,82451,TCHAMBA 1,sous_region
+Population résidente par découpage administratif et par sexe,TCHAMBA,Total,Nombre,2022,48392,TCHAMBA,sous_region
+Population résidente par découpage administratif et par sexe,ALIBI,Total,Nombre,2022,10324,ALIBI,sous_region
+Population résidente par découpage administratif et par sexe,LARNI,Total,Nombre,2022,7113,LARNI,sous_region
+Population résidente par découpage administratif et par sexe,KRI-KRI (ADJEIDE),Total,Nombre,2022,7359,KRI-KRI (ADJEIDE),sous_region
+Population résidente par découpage administratif et par sexe,AFFEM,Total,Nombre,2022,9263,AFFEM,sous_region
+Population résidente par découpage administratif et par sexe,TCHAMBA 2,Total,Nombre,2022,64930,TCHAMBA 2,sous_region
+Population résidente par découpage administratif et par sexe,KOUSSOUNTOU,Total,Nombre,2022,28343,KOUSSOUNTOU,sous_region
+Population résidente par découpage administratif et par sexe,BAGO,Total,Nombre,2022,36587,BAGO,sous_region
+Population résidente par découpage administratif et par sexe,TCHAMBA 3,Total,Nombre,2022,53204,TCHAMBA 3,sous_region
+Population résidente par découpage administratif et par sexe,KABOLI,Total,Nombre,2022,30575,KABOLI,sous_region
+Population résidente par découpage administratif et par sexe,GOUBI,Total,Nombre,2022,10845,GOUBI,sous_region
+Population résidente par découpage administratif et par sexe,BALANKA,Total,Nombre,2022,11784,BALANKA,sous_region
+Population résidente par découpage administratif et par sexe,BLITTA,Total,Nombre,2022,163272,BLITTA,sous_region
+Population résidente par découpage administratif et par sexe,BLITTA 1,Total,Nombre,2022,71539,BLITTA 1,sous_region
+Population résidente par découpage administratif et par sexe,BLITTA-GARE,Total,Nombre,2022,14067,BLITTA-GARE,sous_region
+Population résidente par découpage administratif et par sexe,BLITTA VILLAGE,Total,Nombre,2022,10794,BLITTA VILLAGE,sous_region
+Population résidente par découpage administratif et par sexe,YALOUMBE,Total,Nombre,2022,6253,YALOUMBE,sous_region
+Population résidente par découpage administratif et par sexe,TCHALOUDE,Total,Nombre,2022,9752,TCHALOUDE,sous_region
+Population résidente par découpage administratif et par sexe,WARAGNI,Total,Nombre,2022,4956,WARAGNI,sous_region
+Population résidente par découpage administratif et par sexe,PAGALA-GARE,Total,Nombre,2022,23112,PAGALA-GARE,sous_region
+Population résidente par découpage administratif et par sexe,DOUFOULI,Total,Nombre,2022,2605,DOUFOULI,sous_region
+Population résidente par découpage administratif et par sexe,BLITTA 2,Total,Nombre,2022,46515,BLITTA 2,sous_region
+Population résidente par découpage administratif et par sexe,AGBANDI,Total,Nombre,2022,12122,AGBANDI,sous_region
+Population résidente par découpage administratif et par sexe,LANGABOU,Total,Nombre,2022,16790,LANGABOU,sous_region
+Population résidente par découpage administratif et par sexe,KOFFITI,Total,Nombre,2022,10294,KOFFITI,sous_region
+Population résidente par découpage administratif et par sexe,TCHARE-BAOU,Total,Nombre,2022,7309,TCHARE-BAOU,sous_region
+Population résidente par découpage administratif et par sexe,BLITTA 3,Total,Nombre,2022,45218,BLITTA 3,sous_region
+Population résidente par découpage administratif et par sexe,M'POTI,Total,Nombre,2022,6971,M'POTI,sous_region
+Population résidente par découpage administratif et par sexe,TCHIFAMA,Total,Nombre,2022,5574,TCHIFAMA,sous_region
+Population résidente par découpage administratif et par sexe,PAGALA-VILLAGE,Total,Nombre,2022,3554,PAGALA-VILLAGE,sous_region
+Population résidente par découpage administratif et par sexe,WELLY,Total,Nombre,2022,10170,WELLY,sous_region
+Population résidente par découpage administratif et par sexe,TINTCHRO,Total,Nombre,2022,4041,TINTCHRO,sous_region
+Population résidente par découpage administratif et par sexe,ATCHINTSE,Total,Nombre,2022,4572,ATCHINTSE,sous_region
+Population résidente par découpage administratif et par sexe,DIGUENGUE,Total,Nombre,2022,1523,DIGUENGUE,sous_region
+Population résidente par découpage administratif et par sexe,DIKPELEOU,Total,Nombre,2022,2086,DIKPELEOU,sous_region
+Population résidente par découpage administratif et par sexe,YEGUE,Total,Nombre,2022,3472,YEGUE,sous_region
+Population résidente par découpage administratif et par sexe,KATCHENKE,Total,Nombre,2022,3255,KATCHENKE,sous_region
+Population résidente par découpage administratif et par sexe,SOTOUBOUA,Total,Nombre,2022,138864,SOTOUBOUA,sous_region
+Population résidente par découpage administratif et par sexe,SOTOUBOUA 1,Total,Nombre,2022,46907,SOTOUBOUA 1,sous_region
+Population résidente par découpage administratif et par sexe,SOTOUBOUA,Total,Nombre,2022,37143,SOTOUBOUA,sous_region
+Population résidente par découpage administratif et par sexe,KANIAMBOUA,Total,Nombre,2022,2190,KANIAMBOUA,sous_region
+Population résidente par découpage administratif et par sexe,TABINDE,Total,Nombre,2022,7574,TABINDE,sous_region
+Population résidente par découpage administratif et par sexe,SOTOUBOUA 2,Total,Nombre,2022,64187,SOTOUBOUA 2,sous_region
+Population résidente par découpage administratif et par sexe,ADJENGRE,Total,Nombre,2022,21727,ADJENGRE,sous_region
+Population résidente par découpage administratif et par sexe,SESSARO,Total,Nombre,2022,12226,SESSARO,sous_region
+Population résidente par découpage administratif et par sexe,TITIGBE,Total,Nombre,2022,7130,TITIGBE,sous_region
+Population résidente par découpage administratif et par sexe,KERIADE,Total,Nombre,2022,3524,KERIADE,sous_region
+Population résidente par découpage administratif et par sexe,FAZAO,Total,Nombre,2022,2289,FAZAO,sous_region
+Population résidente par découpage administratif et par sexe,AOUDA,Total,Nombre,2022,17291,AOUDA,sous_region
+Population résidente par découpage administratif et par sexe,SOTOUBOUA 3,Total,Nombre,2022,27770,SOTOUBOUA 3,sous_region
+Population résidente par découpage administratif et par sexe,TCHEBEBE,Total,Nombre,2022,16205,TCHEBEBE,sous_region
+Population résidente par découpage administratif et par sexe,BODJONDE,Total,Nombre,2022,2218,BODJONDE,sous_region
+Population résidente par découpage administratif et par sexe,KAZABOUA,Total,Nombre,2022,9347,KAZABOUA,sous_region
+Population résidente par découpage administratif et par sexe,MO,Total,Nombre,2022,52448,MO,sous_region
+Population résidente par découpage administratif et par sexe,MO 1,Total,Nombre,2022,30522,MO 1,sous_region
+Population résidente par découpage administratif et par sexe,DJARKPANGA,Total,Nombre,2022,19374,DJARKPANGA,sous_region
+Population résidente par découpage administratif et par sexe,KAGNIGBARA,Total,Nombre,2022,5317,KAGNIGBARA,sous_region
+Population résidente par découpage administratif et par sexe,BOULOHOU,Total,Nombre,2022,5831,BOULOHOU,sous_region
+Population résidente par découpage administratif et par sexe,MO 2,Total,Nombre,2022,21926,MO 2,sous_region
+Population résidente par découpage administratif et par sexe,TINDJASSI,Total,Nombre,2022,14230,TINDJASSI,sous_region
+Population résidente par découpage administratif et par sexe,SAIBOUDE,Total,Nombre,2022,7696,SAIBOUDE,sous_region
+Population résidente par découpage administratif et par sexe,OGOU,Total,Nombre,2022,253467,OGOU,sous_region
+Population résidente par découpage administratif et par sexe,OGOU 1,Total,Nombre,2022,116301,OGOU 1,sous_region
+Population résidente par découpage administratif et par sexe,DJAMA,Total,Nombre,2022,45885,DJAMA,sous_region
+Population résidente par découpage administratif et par sexe,GNAGNA,Total,Nombre,2022,60222,GNAGNA,sous_region
+Population résidente par découpage administratif et par sexe,WOUDOU,Total,Nombre,2022,10194,WOUDOU,sous_region
+Population résidente par découpage administratif et par sexe,OGOU 2,Total,Nombre,2022,56282,OGOU 2,sous_region
+Population résidente par découpage administratif et par sexe,DATCHA,Total,Nombre,2022,15180,DATCHA,sous_region
+Population résidente par découpage administratif et par sexe,KATORE,Total,Nombre,2022,13635,KATORE,sous_region
+Population résidente par découpage administratif et par sexe,AKPARE,Total,Nombre,2022,27467,AKPARE,sous_region
+Population résidente par découpage administratif et par sexe,OGOU 3,Total,Nombre,2022,51836,OGOU 3,sous_region
+Population résidente par découpage administratif et par sexe,GLEI,Total,Nombre,2022,51836,GLEI,sous_region
+Population résidente par découpage administratif et par sexe,OGOU 4,Total,Nombre,2022,29048,OGOU 4,sous_region
+Population résidente par découpage administratif et par sexe,OUNTIVOU,Total,Nombre,2022,29048,OUNTIVOU,sous_region
+Population résidente par découpage administratif et par sexe,MOYEN-MONO,Total,Nombre,2022,90505,MOYEN-MONO,sous_region
+Population résidente par découpage administratif et par sexe,MOYEN-MONO 1,Total,Nombre,2022,46797,MOYEN-MONO 1,sous_region
+Population résidente par découpage administratif et par sexe,TOHOUN,Total,Nombre,2022,18393,TOHOUN,sous_region
+Population résidente par découpage administratif et par sexe,TADO,Total,Nombre,2022,18476,TADO,sous_region
+Population résidente par découpage administratif et par sexe,AHASSOME,Total,Nombre,2022,9928,AHASSOME,sous_region
+Population résidente par découpage administratif et par sexe,MOYEN-MONO 2,Total,Nombre,2022,43708,MOYEN-MONO 2,sous_region
+Population résidente par découpage administratif et par sexe,KPEKPLEME,Total,Nombre,2022,22135,KPEKPLEME,sous_region
+Population résidente par découpage administratif et par sexe,KATOME,Total,Nombre,2022,8105,KATOME,sous_region
+Population résidente par découpage administratif et par sexe,SALIGBE,Total,Nombre,2022,13468,SALIGBE,sous_region
+Population résidente par découpage administratif et par sexe,HAHO,Total,Nombre,2022,305096,HAHO,sous_region
+Population résidente par découpage administratif et par sexe,HAHO 1,Total,Nombre,2022,119929,HAHO 1,sous_region
+Population résidente par découpage administratif et par sexe,NOTSE,Total,Nombre,2022,58983,NOTSE,sous_region
+Population résidente par découpage administratif et par sexe,ATCHAVE,Total,Nombre,2022,25560,ATCHAVE,sous_region
+Population résidente par découpage administratif et par sexe,DALIA,Total,Nombre,2022,16372,DALIA,sous_region
+Population résidente par découpage administratif et par sexe,HAHOMEGBE,Total,Nombre,2022,19014,HAHOMEGBE,sous_region
+Population résidente par découpage administratif et par sexe,HAHO 2,Total,Nombre,2022,82507,HAHO 2,sous_region
+Population résidente par découpage administratif et par sexe,ASRAMA,Total,Nombre,2022,50994,ASRAMA,sous_region
+Population résidente par découpage administratif et par sexe,DJEMEGNI,Total,Nombre,2022,31513,DJEMEGNI,sous_region
+Population résidente par découpage administratif et par sexe,HAHO 3,Total,Nombre,2022,58695,HAHO 3,sous_region
+Population résidente par découpage administratif et par sexe,KPEDOME,Total,Nombre,2022,46326,KPEDOME,sous_region
+Population résidente par découpage administratif et par sexe,AKPAKPAKPE,Total,Nombre,2022,12369,AKPAKPAKPE,sous_region
+Population résidente par découpage administratif et par sexe,HAHO 4,Total,Nombre,2022,43965,HAHO 4,sous_region
+Population résidente par découpage administratif et par sexe,WAHALA,Total,Nombre,2022,36703,WAHALA,sous_region
+Population résidente par découpage administratif et par sexe,AYITO,Total,Nombre,2022,7262,AYITO,sous_region
+Population résidente par découpage administratif et par sexe,AGOU,Total,Nombre,2022,85793,AGOU,sous_region
+Population résidente par découpage administratif et par sexe,AGOU 1,Total,Nombre,2022,58328,AGOU 1,sous_region
+Population résidente par découpage administratif et par sexe,AGOU TAVIE,Total,Nombre,2022,9019,AGOU TAVIE,sous_region
+Population résidente par découpage administratif et par sexe,AGOU-AKPLOLO,Total,Nombre,2022,2609,AGOU-AKPLOLO,sous_region
+Population résidente par découpage administratif et par sexe,AGOU KEBO,Total,Nombre,2022,2708,AGOU KEBO,sous_region
+Population résidente par découpage administratif et par sexe,AGOU YIBOE,Total,Nombre,2022,2894,AGOU YIBOE,sous_region
+Population résidente par découpage administratif et par sexe,KATI,Total,Nombre,2022,8231,KATI,sous_region
+Population résidente par découpage administratif et par sexe,GADJA,Total,Nombre,2022,20634,GADJA,sous_region
+Population résidente par découpage administratif et par sexe,AGOU ATIGBE,Total,Nombre,2022,1845,AGOU ATIGBE,sous_region
+Population résidente par découpage administratif et par sexe,ADJAHUN FIAGBE,Total,Nombre,2022,2934,ADJAHUN FIAGBE,sous_region
+Population résidente par découpage administratif et par sexe,NYOGBO-NORD_NYOGBO-SUD,Total,Nombre,2022,7454,NYOGBO-NORD_NYOGBO-SUD,sous_region
+Population résidente par découpage administratif et par sexe,AGOU 2,Total,Nombre,2022,27465,AGOU 2,sous_region
+Population résidente par découpage administratif et par sexe,AMOUSSOU KOPE,Total,Nombre,2022,11697,AMOUSSOU KOPE,sous_region
+Population résidente par découpage administratif et par sexe,ADZAKPA,Total,Nombre,2022,7436,ADZAKPA,sous_region
+Population résidente par découpage administratif et par sexe,AGOTIME NORD,Total,Nombre,2022,8332,AGOTIME NORD,sous_region
+Population résidente par découpage administratif et par sexe,KLOTO,Total,Nombre,2022,145986,KLOTO,sous_region
+Population résidente par découpage administratif et par sexe,KLOTO 1,Total,Nombre,2022,118387,KLOTO 1,sous_region
+Population résidente par découpage administratif et par sexe,AGOME KPALIME,Total,Nombre,2022,87478,AGOME KPALIME,sous_region
+Population résidente par découpage administratif et par sexe,YOKELE,Total,Nombre,2022,3248,YOKELE,sous_region
+Population résidente par découpage administratif et par sexe,TOVE,Total,Nombre,2022,5662,TOVE,sous_region
+Population résidente par découpage administratif et par sexe,TOME,Total,Nombre,2022,3287,TOME,sous_region
+Population résidente par découpage administratif et par sexe,GBALAVE,Total,Nombre,2022,2304,GBALAVE,sous_region
+Population résidente par découpage administratif et par sexe,HANYIGBA,Total,Nombre,2022,4455,HANYIGBA,sous_region
+Population résidente par découpage administratif et par sexe,KPADAPE_WOME,Total,Nombre,2022,11953,KPADAPE_WOME,sous_region
+Population résidente par découpage administratif et par sexe,KLOTO 2,Total,Nombre,2022,16166,KLOTO 2,sous_region
+Population résidente par découpage administratif et par sexe,KPIME,Total,Nombre,2022,7225,KPIME,sous_region
+Population résidente par découpage administratif et par sexe,LAVIE /LAVIE APEDOME,Total,Nombre,2022,8941,LAVIE /LAVIE APEDOME,sous_region
+Population résidente par découpage administratif et par sexe,KLOTO 3,Total,Nombre,2022,11433,KLOTO 3,sous_region
+Population résidente par découpage administratif et par sexe,KOUMA,Total,Nombre,2022,6815,KOUMA,sous_region
+Population résidente par découpage administratif et par sexe,AGOME,Total,Nombre,2022,1785,AGOME,sous_region
+Population résidente par découpage administratif et par sexe,AGOME-TOMEGBE,Total,Nombre,2022,2833,AGOME-TOMEGBE,sous_region
+Population résidente par découpage administratif et par sexe,KPELE,Total,Nombre,2022,80939,KPELE,sous_region
+Population résidente par découpage administratif et par sexe,KPELE 1,Total,Nombre,2022,53275,KPELE 1,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-NOVIVE,Total,Nombre,2022,29987,KPELE-NOVIVE,sous_region
+Population résidente par découpage administratif et par sexe,AKATA,Total,Nombre,2022,7655,AKATA,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-GOVIE,Total,Nombre,2022,4629,KPELE-GOVIE,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-DAWLOTOU,Total,Nombre,2022,11004,KPELE-DAWLOTOU,sous_region
+Population résidente par découpage administratif et par sexe,KPELE 2,Total,Nombre,2022,27664,KPELE 2,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-CENTRE/GOUDEVE,Total,Nombre,2022,7262,KPELE-CENTRE/GOUDEVE,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-GBALADZE,Total,Nombre,2022,3325,KPELE-GBALADZE,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-KAME,Total,Nombre,2022,5966,KPELE-KAME,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-DUTOE,Total,Nombre,2022,3573,KPELE-DUTOE,sous_region
+Population résidente par découpage administratif et par sexe,KPELE-NORD,Total,Nombre,2022,7538,KPELE-NORD,sous_region
+Population résidente par découpage administratif et par sexe,DANYI,Total,Nombre,2022,40240,DANYI,sous_region
+Population résidente par découpage administratif et par sexe,DANYI 1+DANYI 2,Total,Nombre,2022,40240,DANYI 1+DANYI 2,sous_region
+Population résidente par découpage administratif et par sexe,DANYI-KAKPA,Total,Nombre,2022,8891,DANYI-KAKPA,sous_region
+Population résidente par découpage administratif et par sexe,YIKPA,Total,Nombre,2022,1243,YIKPA,sous_region
+Population résidente par découpage administratif et par sexe,DANYI-ATIGBA_DANYI-ELAVANYO,Total,Nombre,2022,22125,DANYI-ATIGBA_DANYI-ELAVANYO,sous_region
+Population résidente par découpage administratif et par sexe,AHLON,Total,Nombre,2022,4423,AHLON,sous_region
+Population résidente par découpage administratif et par sexe,DANYI KPETO-EVITA,Total,Nombre,2022,3558,DANYI KPETO-EVITA,sous_region
+Population résidente par découpage administratif et par sexe,WAWA,Total,Nombre,2022,101300,WAWA,sous_region
+Population résidente par découpage administratif et par sexe,WAWA 1,Total,Nombre,2022,51187,WAWA 1,sous_region
+Population résidente par découpage administratif et par sexe,BADOU,Total,Nombre,2022,20144,BADOU,sous_region
+Population résidente par découpage administratif et par sexe,KESSIBO,Total,Nombre,2022,10490,KESSIBO,sous_region
+Population résidente par découpage administratif et par sexe,TOMEGBE,Total,Nombre,2022,8784,TOMEGBE,sous_region
+Population résidente par découpage administratif et par sexe,KPETE BENA,Total,Nombre,2022,11769,KPETE BENA,sous_region
+Population résidente par découpage administratif et par sexe,WAWA 2,Total,Nombre,2022,20414,WAWA 2,sous_region
+Population résidente par découpage administratif et par sexe,EKETO_GBANDI-N'KOUGNA_GOBE,Total,Nombre,2022,20414,EKETO_GBANDI-N'KOUGNA_GOBE,sous_region
+Population résidente par découpage administratif et par sexe,WAWA 3,Total,Nombre,2022,29699,WAWA 3,sous_region
+Population résidente par découpage administratif et par sexe,OKOU,Total,Nombre,2022,4765,OKOU,sous_region
+Population résidente par découpage administratif et par sexe,OUNABE,Total,Nombre,2022,3477,OUNABE,sous_region
+Population résidente par découpage administratif et par sexe,DOUME,Total,Nombre,2022,4642,DOUME,sous_region
+Population résidente par découpage administratif et par sexe,ZOGBEGAN,Total,Nombre,2022,10912,ZOGBEGAN,sous_region
+Population résidente par découpage administratif et par sexe,KLABE EFOUKPA,Total,Nombre,2022,5903,KLABE EFOUKPA,sous_region
+Population résidente par découpage administratif et par sexe,AKEBOU,Total,Nombre,2022,73830,AKEBOU,sous_region
+Population résidente par découpage administratif et par sexe,AKEBOU 1,Total,Nombre,2022,44196,AKEBOU 1,sous_region
+Population résidente par découpage administratif et par sexe,KOUGNOHOU,Total,Nombre,2022,13718,KOUGNOHOU,sous_region
+Population résidente par découpage administratif et par sexe,VHE,Total,Nombre,2022,5315,VHE,sous_region
+Population résidente par découpage administratif et par sexe,DJON,Total,Nombre,2022,13562,DJON,sous_region
+Population résidente par découpage administratif et par sexe,GBENDE,Total,Nombre,2022,6071,GBENDE,sous_region
+Population résidente par découpage administratif et par sexe,YALLA,Total,Nombre,2022,5530,YALLA,sous_region
+Population résidente par découpage administratif et par sexe,AKEBOU 2,Total,Nombre,2022,29634,AKEBOU 2,sous_region
+Population résidente par découpage administratif et par sexe,KAMINA,Total,Nombre,2022,14632,KAMINA,sous_region
+Population résidente par découpage administratif et par sexe,KPALAVE,Total,Nombre,2022,6989,KPALAVE,sous_region
+Population résidente par découpage administratif et par sexe,SEREGBENE,Total,Nombre,2022,8013,SEREGBENE,sous_region
+Population résidente par découpage administratif et par sexe,AMOU,Total,Nombre,2022,114172,AMOU,sous_region
+Population résidente par découpage administratif et par sexe,AMOU 1,Total,Nombre,2022,19746,AMOU 1,sous_region
+Population résidente par découpage administratif et par sexe,OUMA-AMLAME,Total,Nombre,2022,13782,OUMA-AMLAME,sous_region
+Population résidente par découpage administratif et par sexe,IMLE,Total,Nombre,2022,4806,IMLE,sous_region
+Population résidente par découpage administratif et par sexe,ADIVA,Total,Nombre,2022,1158,ADIVA,sous_region
+Population résidente par découpage administratif et par sexe,AMOU 2,Total,Nombre,2022,40016,AMOU 2,sous_region
+Population résidente par découpage administratif et par sexe,AMOU-OBLO,Total,Nombre,2022,19923,AMOU-OBLO,sous_region
+Population résidente par découpage administratif et par sexe,SODO,Total,Nombre,2022,3920,SODO,sous_region
+Population résidente par découpage administratif et par sexe,EKPEGNON,Total,Nombre,2022,6098,EKPEGNON,sous_region
+Population résidente par découpage administratif et par sexe,KPATEGAN,Total,Nombre,2022,10075,KPATEGAN,sous_region
+Population résidente par découpage administratif et par sexe,AMOU 2,Total,Nombre,2022,54410,AMOU 2,sous_region
+Population résidente par découpage administratif et par sexe,HIHEATRO,Total,Nombre,2022,23330,HIHEATRO,sous_region
+Population résidente par découpage administratif et par sexe,OKPAHOE,Total,Nombre,2022,1247,OKPAHOE,sous_region
+Population résidente par découpage administratif et par sexe,OTADI,Total,Nombre,2022,5421,OTADI,sous_region
+Population résidente par découpage administratif et par sexe,GAME,Total,Nombre,2022,7377,GAME,sous_region
+Population résidente par découpage administratif et par sexe,AVEDJE-ITADI,Total,Nombre,2022,3116,AVEDJE-ITADI,sous_region
+Population résidente par découpage administratif et par sexe,TEMEDJA,Total,Nombre,2022,9026,TEMEDJA,sous_region
+Population résidente par découpage administratif et par sexe,EVOU,Total,Nombre,2022,4893,EVOU,sous_region
+Population résidente par découpage administratif et par sexe,ANIE,Total,Nombre,2022,180158,ANIE,sous_region
+Population résidente par découpage administratif et par sexe,ANIE 1,Total,Nombre,2022,100745,ANIE 1,sous_region
+Population résidente par découpage administratif et par sexe,ANIE,Total,Nombre,2022,78455,ANIE,sous_region
+Population résidente par découpage administratif et par sexe,PALLAKOKO,Total,Nombre,2022,7372,PALLAKOKO,sous_region
+Population résidente par découpage administratif et par sexe,KOLO-KOPE,Total,Nombre,2022,14918,KOLO-KOPE,sous_region
+Population résidente par découpage administratif et par sexe,ANIE 2,Total,Nombre,2022,79413,ANIE 2,sous_region
+Population résidente par découpage administratif et par sexe,ADOGBENOU,Total,Nombre,2022,37998,ADOGBENOU,sous_region
+Population résidente par découpage administratif et par sexe,GLITTO,Total,Nombre,2022,23415,GLITTO,sous_region
+Population résidente par découpage administratif et par sexe,ATCHINEDJI,Total,Nombre,2022,18000,ATCHINEDJI,sous_region
+Population résidente par découpage administratif et par sexe,EST-MONO,Total,Nombre,2022,164460,EST-MONO,sous_region
+Population résidente par découpage administratif et par sexe,EST-MONO 1,Total,Nombre,2022,34652,EST-MONO 1,sous_region
+Population résidente par découpage administratif et par sexe,ELAVAGNON,Total,Nombre,2022,25016,ELAVAGNON,sous_region
+Population résidente par découpage administratif et par sexe,GBADJAHE,Total,Nombre,2022,9636,GBADJAHE,sous_region
+Population résidente par découpage administratif et par sexe,EST-MONO 2,Total,Nombre,2022,101866,EST-MONO 2,sous_region
+Population résidente par découpage administratif et par sexe,MORETAN,Total,Nombre,2022,49295,MORETAN,sous_region
+Population résidente par découpage administratif et par sexe,BADIN,Total,Nombre,2022,26879,BADIN,sous_region
+Population résidente par découpage administratif et par sexe,KAMINA,Total,Nombre,2022,25692,KAMINA,sous_region
+Population résidente par découpage administratif et par sexe,EST-MONO 1,Total,Nombre,2022,27942,EST-MONO 1,sous_region
+Population résidente par découpage administratif et par sexe,NYAMASSILA,Total,Nombre,2022,16032,NYAMASSILA,sous_region
+Population résidente par découpage administratif et par sexe,KPESSI,Total,Nombre,2022,11910,KPESSI,sous_region
+Population résidente par découpage administratif et par sexe,ZIO,Total,Nombre,2022,500032,ZIO,sous_region
+Population résidente par découpage administratif et par sexe,ZIO 1,Total,Nombre,2022,307292,ZIO 1,sous_region
+Population résidente par découpage administratif et par sexe,TSEVIE,Total,Nombre,2022,81568,TSEVIE,sous_region
+Population résidente par découpage administratif et par sexe,GBATOPE,Total,Nombre,2022,26317,GBATOPE,sous_region
+Population résidente par découpage administratif et par sexe,KPOME,Total,Nombre,2022,18991,KPOME,sous_region
+Population résidente par découpage administratif et par sexe,ABOBO,Total,Nombre,2022,40622,ABOBO,sous_region
+Population résidente par découpage administratif et par sexe,DJAGBLE,Total,Nombre,2022,65455,DJAGBLE,sous_region
+Population résidente par découpage administratif et par sexe,DALAVE,Total,Nombre,2022,24596,DALAVE,sous_region
+Population résidente par découpage administratif et par sexe,DAVIE,Total,Nombre,2022,40518,DAVIE,sous_region
+Population résidente par découpage administratif et par sexe,GBLAINVIE,Total,Nombre,2022,9225,GBLAINVIE,sous_region
+Population résidente par découpage administratif et par sexe,ZIO 2,Total,Nombre,2022,96193,ZIO 2,sous_region
+Population résidente par découpage administratif et par sexe,KOVIE,Total,Nombre,2022,20834,KOVIE,sous_region
+Population résidente par découpage administratif et par sexe,WLI,Total,Nombre,2022,5687,WLI,sous_region
+Population résidente par découpage administratif et par sexe,BOLOU,Total,Nombre,2022,12878,BOLOU,sous_region
+Population résidente par découpage administratif et par sexe,MISSION TOVE,Total,Nombre,2022,56794,MISSION TOVE,sous_region
+Population résidente par découpage administratif et par sexe,ZIO 3,Total,Nombre,2022,67843,ZIO 3,sous_region
+Population résidente par découpage administratif et par sexe,AGBELOUVE,Total,Nombre,2022,50219,AGBELOUVE,sous_region
+Population résidente par découpage administratif et par sexe,GAME,Total,Nombre,2022,17624,GAME,sous_region
+Population résidente par découpage administratif et par sexe,ZIO 4,Total,Nombre,2022,28704,ZIO 4,sous_region
+Population résidente par découpage administratif et par sexe,GAPE-CENTRE,Total,Nombre,2022,20215,GAPE-CENTRE,sous_region
+Population résidente par découpage administratif et par sexe,GAPE-KPODJI,Total,Nombre,2022,8489,GAPE-KPODJI,sous_region
+Population résidente par découpage administratif et par sexe,YOTO,Total,Nombre,2022,174851,YOTO,sous_region
+Population résidente par découpage administratif et par sexe,YOTO 1,Total,Nombre,2022,77353,YOTO 1,sous_region
+Population résidente par découpage administratif et par sexe,TABLIGBO,Total,Nombre,2022,37182,TABLIGBO,sous_region
+Population résidente par découpage administratif et par sexe,KOUVE,Total,Nombre,2022,21986,KOUVE,sous_region
+Population résidente par découpage administratif et par sexe,AMOUSSIME,Total,Nombre,2022,12720,AMOUSSIME,sous_region
+Population résidente par découpage administratif et par sexe,KINI-KONDJI,Total,Nombre,2022,5465,KINI-KONDJI,sous_region
+Population résidente par découpage administratif et par sexe,YOTO 2,Total,Nombre,2022,43412,YOTO 2,sous_region
+Population résidente par découpage administratif et par sexe,AHEPE,Total,Nombre,2022,18138,AHEPE,sous_region
+Population résidente par découpage administratif et par sexe,TCHEKPO,Total,Nombre,2022,14591,TCHEKPO,sous_region
+Population résidente par découpage administratif et par sexe,ZAFI,Total,Nombre,2022,10683,ZAFI,sous_region
+Population résidente par découpage administratif et par sexe,YOTO 3,Total,Nombre,2022,54086,YOTO 3,sous_region
+Population résidente par découpage administratif et par sexe,TOKPLI,Total,Nombre,2022,13998,TOKPLI,sous_region
+Population résidente par découpage administratif et par sexe,GBOTO,Total,Nombre,2022,13168,GBOTO,sous_region
+Population résidente par découpage administratif et par sexe,TOMETY-KONDJI,Total,Nombre,2022,9068,TOMETY-KONDJI,sous_region
+Population résidente par découpage administratif et par sexe,SEDOME,Total,Nombre,2022,9955,SEDOME,sous_region
+Population résidente par découpage administratif et par sexe,ESSE-GODJIN,Total,Nombre,2022,7897,ESSE-GODJIN,sous_region
+Population résidente par découpage administratif et par sexe,BAS-MONO,Total,Nombre,2022,94860,BAS-MONO,sous_region
+Population résidente par découpage administratif et par sexe,BAS-MONO 1,Total,Nombre,2022,55382,BAS-MONO 1,sous_region
+Population résidente par découpage administratif et par sexe,AFAGNAGAN,Total,Nombre,2022,19478,AFAGNAGAN,sous_region
+Population résidente par découpage administratif et par sexe,AFAGNAN,Total,Nombre,2022,15929,AFAGNAN,sous_region
+Population résidente par découpage administratif et par sexe,AGOME-GLOZOU,Total,Nombre,2022,7254,AGOME-GLOZOU,sous_region
+Population résidente par découpage administratif et par sexe,KPETSOU,Total,Nombre,2022,12721,KPETSOU,sous_region
+Population résidente par découpage administratif et par sexe,BAS-MONO 2,Total,Nombre,2022,39478,BAS-MONO 2,sous_region
+Population résidente par découpage administratif et par sexe,ATTITOGON,Total,Nombre,2022,31288,ATTITOGON,sous_region
+Population résidente par découpage administratif et par sexe,AGBETIKO,Total,Nombre,2022,4087,AGBETIKO,sous_region
+Population résidente par découpage administratif et par sexe,HOMPOU,Total,Nombre,2022,4103,HOMPOU,sous_region
+Population résidente par découpage administratif et par sexe,LACS,Total,Nombre,2022,241247,LACS,sous_region
+Population résidente par découpage administratif et par sexe,LACS 1,Total,Nombre,2022,52994,LACS 1,sous_region
+Population résidente par découpage administratif et par sexe,ANEHO,Total,Nombre,2022,28237,ANEHO,sous_region
+Population résidente par découpage administratif et par sexe,GLIDJI,Total,Nombre,2022,24757,GLIDJI,sous_region
+Population résidente par découpage administratif et par sexe,LACS 2,Total,Nombre,2022,42855,LACS 2,sous_region
+Population résidente par découpage administratif et par sexe,AKLAKOU,Total,Nombre,2022,31030,AKLAKOU,sous_region
+Population résidente par découpage administratif et par sexe,AGOUEGAN,Total,Nombre,2022,11825,AGOUEGAN,sous_region
+Population résidente par découpage administratif et par sexe,LACS 3,Total,Nombre,2022,108176,LACS 3,sous_region
+Population résidente par découpage administratif et par sexe,AGBODRAFO,Total,Nombre,2022,35262,AGBODRAFO,sous_region
+Population résidente par découpage administratif et par sexe,GBODJOME,Total,Nombre,2022,72914,GBODJOME,sous_region
+Population résidente par découpage administratif et par sexe,LACS 4,Total,Nombre,2022,37222,LACS 4,sous_region
+Population résidente par découpage administratif et par sexe,ANFOIN,Total,Nombre,2022,17172,ANFOIN,sous_region
+Population résidente par découpage administratif et par sexe,GANAVE,Total,Nombre,2022,11062,GANAVE,sous_region
+Population résidente par découpage administratif et par sexe,FIATA,Total,Nombre,2022,8988,FIATA,sous_region
+Population résidente par découpage administratif et par sexe,VO,Total,Nombre,2022,224411,VO,sous_region
+Population résidente par découpage administratif et par sexe,VO 1,Total,Nombre,2022,88865,VO 1,sous_region
+Population résidente par découpage administratif et par sexe,VOGAN,Total,Nombre,2022,64675,VOGAN,sous_region
+Population résidente par découpage administratif et par sexe,VO-KOUTIME,Total,Nombre,2022,24190,VO-KOUTIME,sous_region
+Population résidente par découpage administratif et par sexe,VO 2,Total,Nombre,2022,24396,VO 2,sous_region
+Population résidente par découpage administratif et par sexe,TOGOVILLE,Total,Nombre,2022,18253,TOGOVILLE,sous_region
+Population résidente par découpage administratif et par sexe,ANYRON KOPE,Total,Nombre,2022,6143,ANYRON KOPE,sous_region
+Population résidente par découpage administratif et par sexe,VO 3,Total,Nombre,2022,64651,VO 3,sous_region
+Population résidente par découpage administratif et par sexe,DZREKPO,Total,Nombre,2022,29687,DZREKPO,sous_region
+Population résidente par découpage administratif et par sexe,DAGBATI,Total,Nombre,2022,18206,DAGBATI,sous_region
+Population résidente par découpage administratif et par sexe,MOME-HOUNKPATI,Total,Nombre,2022,16758,MOME-HOUNKPATI,sous_region
+Population résidente par découpage administratif et par sexe,VO 4,Total,Nombre,2022,46499,VO 4,sous_region
+Population résidente par découpage administratif et par sexe,AKOUMAPE,Total,Nombre,2022,19187,AKOUMAPE,sous_region
+Population résidente par découpage administratif et par sexe,SEVAGAN,Total,Nombre,2022,12919,SEVAGAN,sous_region
+Population résidente par découpage administratif et par sexe,HAHOTOE,Total,Nombre,2022,14393,HAHOTOE,sous_region
+Population résidente par découpage administratif et par sexe,TOTOAL AVE,Total,Nombre,2022,111214,TOTOAL AVE,sous_region
+Population résidente par découpage administratif et par sexe,AVE 1,Total,Nombre,2022,75044,AVE 1,sous_region
+Population résidente par découpage administratif et par sexe,KEVE,Total,Nombre,2022,11735,KEVE,sous_region
+Population résidente par découpage administratif et par sexe,DZOLO,Total,Nombre,2022,8101,DZOLO,sous_region
+Population résidente par découpage administratif et par sexe,EDZI,Total,Nombre,2022,1832,EDZI,sous_region
+Population résidente par découpage administratif et par sexe,TOVEGAN,Total,Nombre,2022,12732,TOVEGAN,sous_region
+Population résidente par découpage administratif et par sexe,ASSAHOUN/ANDO,Total,Nombre,2022,40644,ASSAHOUN/ANDO,sous_region
+Population résidente par découpage administratif et par sexe,AVE 2,Total,Nombre,2022,36170,AVE 2,sous_region
+Population résidente par découpage administratif et par sexe,NOEPE,Total,Nombre,2022,9796,NOEPE,sous_region
+Population résidente par découpage administratif et par sexe,BADJA,Total,Nombre,2022,9413,BADJA,sous_region
+Population résidente par découpage administratif et par sexe,AKEPE,Total,Nombre,2022,16961,AKEPE,sous_region
+Population résidente par découpage administratif et par sexe,DAGL,Total,Nombre,2022,2188376,DAGL,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 1,Total,Nombre,2022,351550,GOLFE 1,sous_region
+Population résidente par découpage administratif et par sexe,BE,Total,Nombre,2022,10815,BE,sous_region
+Population résidente par découpage administratif et par sexe,GBENYEDJI,Total,Nombre,2022,11299,GBENYEDJI,sous_region
+Population résidente par découpage administratif et par sexe,WETE,Total,Nombre,2022,11088,WETE,sous_region
+Population résidente par découpage administratif et par sexe,BE HEDJE,Total,Nombre,2022,11686,BE HEDJE,sous_region
+Population résidente par découpage administratif et par sexe,N'TIFAFA KOME,Total,Nombre,2022,4539,N'TIFAFA KOME,sous_region
+Population résidente par découpage administratif et par sexe,BE KPOTA,Total,Nombre,2022,41682,BE KPOTA,sous_region
+Population résidente par découpage administratif et par sexe,ANFAME,Total,Nombre,2022,62588,ANFAME,sous_region
+Population résidente par découpage administratif et par sexe,KLOBATEME,Total,Nombre,2022,6852,KLOBATEME,sous_region
+Population résidente par découpage administratif et par sexe,ADAKPAME,Total,Nombre,2022,35094,ADAKPAME,sous_region
+Population résidente par découpage administratif et par sexe,KANYIKOPE,Total,Nombre,2022,26457,KANYIKOPE,sous_region
+Population résidente par découpage administratif et par sexe,AKODESSEWA KPONOU,Total,Nombre,2022,14510,AKODESSEWA KPONOU,sous_region
+Population résidente par découpage administratif et par sexe,AKODESSEWA KPOTA,Total,Nombre,2022,11683,AKODESSEWA KPOTA,sous_region
+Population résidente par découpage administratif et par sexe,ZONE PORTUAIRE,Total,Nombre,2022,8205,ZONE PORTUAIRE,sous_region
+Population résidente par découpage administratif et par sexe,AKODESSEWA,Total,Nombre,2022,6521,AKODESSEWA,sous_region
+Population résidente par découpage administratif et par sexe,ABLOGAME,Total,Nombre,2022,8155,ABLOGAME,sous_region
+Population résidente par découpage administratif et par sexe,BE AHLIGO,Total,Nombre,2022,6339,BE AHLIGO,sous_region
+Population résidente par découpage administratif et par sexe,KOTOKOU KONDJI,Total,Nombre,2022,4044,KOTOKOU KONDJI,sous_region
+Population résidente par découpage administratif et par sexe,ANTONIO NETIME,Total,Nombre,2022,1564,ANTONIO NETIME,sous_region
+Population résidente par découpage administratif et par sexe,SOUZA NETIME,Total,Nombre,2022,17147,SOUZA NETIME,sous_region
+Population résidente par découpage administratif et par sexe,BE KPEHENOU,Total,Nombre,2022,6569,BE KPEHENOU,sous_region
+Population résidente par découpage administratif et par sexe,BE APEYEME,Total,Nombre,2022,12253,BE APEYEME,sous_region
+Population résidente par découpage administratif et par sexe,KELEGOUGAN1,Total,Nombre,2022,13145,KELEGOUGAN1,sous_region
+Population résidente par découpage administratif et par sexe,ATIEGOU1,Total,Nombre,2022,19315,ATIEGOU1,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 2,Total,Nombre,2022,136153,GOLFE 2,sous_region
+Population résidente par découpage administratif et par sexe,HEDZRANAWOE,Total,Nombre,2022,51637,HEDZRANAWOE,sous_region
+Population résidente par découpage administratif et par sexe,KELEGOUGAN 2,Total,Nombre,2022,14240,KELEGOUGAN 2,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN AEROPORT,Total,Nombre,2022,189,TOKOIN AEROPORT,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN N'KAFU,Total,Nombre,2022,11864,TOKOIN N'KAFU,sous_region
+Population résidente par découpage administratif et par sexe,SAINT JOSEPH,Total,Nombre,2022,5778,SAINT JOSEPH,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN FOREVER,Total,Nombre,2022,2898,TOKOIN FOREVER,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN TAME,Total,Nombre,2022,4187,TOKOIN TAME,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN WUITI,Total,Nombre,2022,18385,TOKOIN WUITI,sous_region
+Population résidente par découpage administratif et par sexe,ATIEGOU 2,Total,Nombre,2022,26975,ATIEGOU 2,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 3,Total,Nombre,2022,52769,GOLFE 3,sous_region
+Population résidente par découpage administratif et par sexe,DOUMASSESSE,Total,Nombre,2022,20792,DOUMASSESSE,sous_region
+Population résidente par découpage administratif et par sexe,UNIVERSITE DE LOME,Total,Nombre,2022,2157,UNIVERSITE DE LOME,sous_region
+Population résidente par découpage administratif et par sexe,RESIDENCE DU BENIN,Total,Nombre,2022,1101,RESIDENCE DU BENIN,sous_region
+Population résidente par découpage administratif et par sexe,LOME II,Total,Nombre,2022,10902,LOME II,sous_region
+Population résidente par découpage administratif et par sexe,GBONVIE,Total,Nombre,2022,6534,GBONVIE,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN LYCEE,Total,Nombre,2022,3248,TOKOIN LYCEE,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN ELAVAGNON,Total,Nombre,2022,7273,TOKOIN ELAVAGNON,sous_region
+Population résidente par découpage administratif et par sexe,KELEGOUGAN 3,Total,Nombre,2022,762,KELEGOUGAN 3,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 4,Total,Nombre,2022,155842,GOLFE 4,sous_region
+Population résidente par découpage administratif et par sexe,AMOUTIVE,Total,Nombre,2022,5344,AMOUTIVE,sous_region
+Population résidente par découpage administratif et par sexe,BASSADJI,Total,Nombre,2022,2230,BASSADJI,sous_region
+Population résidente par découpage administratif et par sexe,LOM NAVA,Total,Nombre,2022,9413,LOM NAVA,sous_region
+Population résidente par découpage administratif et par sexe,ABOBOKOME,Total,Nombre,2022,1432,ABOBOKOME,sous_region
+Population résidente par découpage administratif et par sexe,AGUIAKOME,Total,Nombre,2022,3499,AGUIAKOME,sous_region
+Population résidente par découpage administratif et par sexe,BENIGLATO,Total,Nombre,2022,3051,BENIGLATO,sous_region
+Population résidente par découpage administratif et par sexe,ADAWLATO,Total,Nombre,2022,132,ADAWLATO,sous_region
+Population résidente par découpage administratif et par sexe,AGBADAHONOU,Total,Nombre,2022,534,AGBADAHONOU,sous_region
+Population résidente par découpage administratif et par sexe,KOKETIME,Total,Nombre,2022,642,KOKETIME,sous_region
+Population résidente par découpage administratif et par sexe,SANGUERA,Total,Nombre,2022,956,SANGUERA,sous_region
+Population résidente par découpage administratif et par sexe,FREAU JARDIN,Total,Nombre,2022,715,FREAU JARDIN,sous_region
+Population résidente par découpage administratif et par sexe,WETRIVI KONDJI,Total,Nombre,2022,1376,WETRIVI KONDJI,sous_region
+Population résidente par découpage administratif et par sexe,ADOBOUKOME,Total,Nombre,2022,2003,ADOBOUKOME,sous_region
+Population résidente par découpage administratif et par sexe,QUARTIER ADMINISTRATIF,Total,Nombre,2022,3421,QUARTIER ADMINISTRATIF,sous_region
+Population résidente par découpage administratif et par sexe,KODJOVIAKOPE,Total,Nombre,2022,14848,KODJOVIAKOPE,sous_region
+Population résidente par découpage administratif et par sexe,NYEKONAKPOE,Total,Nombre,2022,22100,NYEKONAKPOE,sous_region
+Population résidente par découpage administratif et par sexe,OCTAVIONO NETIME,Total,Nombre,2022,5562,OCTAVIONO NETIME,sous_region
+Population résidente par découpage administratif et par sexe,HANOUKOPE,Total,Nombre,2022,2806,HANOUKOPE,sous_region
+Population résidente par découpage administratif et par sexe,DOULASSAME,Total,Nombre,2022,8328,DOULASSAME,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN OUEST,Total,Nombre,2022,9451,TOKOIN OUEST,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN HOPITAL,Total,Nombre,2022,6256,TOKOIN HOPITAL,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN GBADAGO,Total,Nombre,2022,11883,TOKOIN GBADAGO,sous_region
+Population résidente par découpage administratif et par sexe,TOKOIN SOLIDARITE,Total,Nombre,2022,9810,TOKOIN SOLIDARITE,sous_region
+Population résidente par découpage administratif et par sexe,DOGBEAVOU,Total,Nombre,2022,10365,DOGBEAVOU,sous_region
+Population résidente par découpage administratif et par sexe,CASABLANCA,Total,Nombre,2022,1993,CASABLANCA,sous_region
+Population résidente par découpage administratif et par sexe,ABOVE,Total,Nombre,2022,5000,ABOVE,sous_region
+Population résidente par découpage administratif et par sexe,AKOSSOMBO,Total,Nombre,2022,3742,AKOSSOMBO,sous_region
+Population résidente par découpage administratif et par sexe,BE KLIKAME,Total,Nombre,2022,8950,BE KLIKAME,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 5,Total,Nombre,2022,169993,GOLFE 5,sous_region
+Population résidente par découpage administratif et par sexe,AFLAO GAKLI,Total,Nombre,2022,17108,AFLAO GAKLI,sous_region
+Population résidente par découpage administratif et par sexe,AVENOU BATOME,Total,Nombre,2022,4829,AVENOU BATOME,sous_region
+Population résidente par découpage administratif et par sexe,SOVIEPE,Total,Nombre,2022,11021,SOVIEPE,sous_region
+Population résidente par découpage administratif et par sexe,TOTSI,Total,Nombre,2022,25559,TOTSI,sous_region
+Population résidente par découpage administratif et par sexe,AGBALEPEDOGAN,Total,Nombre,2022,22076,AGBALEPEDOGAN,sous_region
+Population résidente par découpage administratif et par sexe,ANYIGBE,Total,Nombre,2022,6313,ANYIGBE,sous_region
+Population résidente par découpage administratif et par sexe,TESHIE,Total,Nombre,2022,3087,TESHIE,sous_region
+Population résidente par découpage administratif et par sexe,AMADAHOME,Total,Nombre,2022,15647,AMADAHOME,sous_region
+Population résidente par découpage administratif et par sexe,APEDOKOE,Total,Nombre,2022,14800,APEDOKOE,sous_region
+Population résidente par découpage administratif et par sexe,WESSOME,Total,Nombre,2022,11547,WESSOME,sous_region
+Population résidente par découpage administratif et par sexe,AVEDJI TELESSOU,Total,Nombre,2022,31612,AVEDJI TELESSOU,sous_region
+Population résidente par découpage administratif et par sexe,ADIDOADIN,Total,Nombre,2022,6394,ADIDOADIN,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 6,Total,Nombre,2022,181561,GOLFE 6,sous_region
+Population résidente par découpage administratif et par sexe,BAGUIDA,Total,Nombre,2022,46017,BAGUIDA,sous_region
+Population résidente par découpage administratif et par sexe,ADAMAVO,Total,Nombre,2022,56103,ADAMAVO,sous_region
+Population résidente par découpage administratif et par sexe,AVEPOZO,Total,Nombre,2022,15685,AVEPOZO,sous_region
+Population résidente par découpage administratif et par sexe,DEVEGO,Total,Nombre,2022,26711,DEVEGO,sous_region
+Population résidente par découpage administratif et par sexe,AGODEKE,Total,Nombre,2022,19101,AGODEKE,sous_region
+Population résidente par découpage administratif et par sexe,KPOGAN,Total,Nombre,2022,17944,KPOGAN,sous_region
+Population résidente par découpage administratif et par sexe,GOLFE 7,Total,Nombre,2022,257813,GOLFE 7,sous_region
+Population résidente par découpage administratif et par sexe,SAGBADO,Total,Nombre,2022,8274,SAGBADO,sous_region
+Population résidente par découpage administratif et par sexe,AGOTIME,Total,Nombre,2022,6442,AGOTIME,sous_region
+Population résidente par découpage administratif et par sexe,LOGOTE,Total,Nombre,2022,26035,LOGOTE,sous_region
+Population résidente par découpage administratif et par sexe,LANKOUVI SAKANI,Total,Nombre,2022,10253,LANKOUVI SAKANI,sous_region
+Population résidente par découpage administratif et par sexe,AKATO VIEPE,Total,Nombre,2022,13497,AKATO VIEPE,sous_region
+Population résidente par découpage administratif et par sexe,AKATO AVOEME,Total,Nombre,2022,7336,AKATO AVOEME,sous_region
+Population résidente par découpage administratif et par sexe,AKATO DEME,Total,Nombre,2022,5146,AKATO DEME,sous_region
+Population résidente par découpage administratif et par sexe,SEGBE DOUANE,Total,Nombre,2022,10154,SEGBE DOUANE,sous_region
+Population résidente par découpage administratif et par sexe,SEGBEGAN,Total,Nombre,2022,4865,SEGBEGAN,sous_region
+Population résidente par découpage administratif et par sexe,SAGBADO ZANVI,Total,Nombre,2022,5754,SAGBADO ZANVI,sous_region
+Population résidente par découpage administratif et par sexe,KLEME YEWEPE,Total,Nombre,2022,14823,KLEME YEWEPE,sous_region
+Population résidente par découpage administratif et par sexe,KLEME AGOKPANOU,Total,Nombre,2022,13068,KLEME AGOKPANOU,sous_region
+Population résidente par découpage administratif et par sexe,WOUGOME,Total,Nombre,2022,11509,WOUGOME,sous_region
+Population résidente par découpage administratif et par sexe,DEKPOR /WOUGOME DEKPOR,Total,Nombre,2022,3648,DEKPOR /WOUGOME DEKPOR,sous_region
+Population résidente par découpage administratif et par sexe,APEDOKOE GBOMAME,Total,Nombre,2022,19660,APEDOKOE GBOMAME,sous_region
+Population résidente par découpage administratif et par sexe,APEDOKOE AGOKPANOU,Total,Nombre,2022,13316,APEDOKOE AGOKPANOU,sous_region
+Population résidente par découpage administratif et par sexe,SAGBADO ASSIYEYE,Total,Nombre,2022,8195,SAGBADO ASSIYEYE,sous_region
+Population résidente par découpage administratif et par sexe,WONYOME,Total,Nombre,2022,4105,WONYOME,sous_region
+Population résidente par découpage administratif et par sexe,YOKOE AGBLEGAN,Total,Nombre,2022,23494,YOKOE AGBLEGAN,sous_region
+Population résidente par découpage administratif et par sexe,ABLOGOME,Total,Nombre,2022,4167,ABLOGOME,sous_region
+Population résidente par découpage administratif et par sexe,AWATAME,Total,Nombre,2022,20349,AWATAME,sous_region
+Population résidente par découpage administratif et par sexe,GBLENKOMEGAN,Total,Nombre,2022,12769,GBLENKOMEGAN,sous_region
+Population résidente par découpage administratif et par sexe,YOKOE KOPEGAN,Total,Nombre,2022,4852,YOKOE KOPEGAN,sous_region
+Population résidente par découpage administratif et par sexe,LANKOUVI,Total,Nombre,2022,6102,LANKOUVI,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE,Total,Nombre,2022,882695,AGOE-NYIVE,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 1,Total,Nombre,2022,317255,AGOE-NYIVE 1,sous_region
+Population résidente par découpage administratif et par sexe,HOUMBI,Total,Nombre,2022,6410,HOUMBI,sous_region
+Population résidente par découpage administratif et par sexe,ADOUIKO,Total,Nombre,2022,19470,ADOUIKO,sous_region
+Population résidente par découpage administratif et par sexe,ADJOUGBA,Total,Nombre,2022,4316,ADJOUGBA,sous_region
+Population résidente par découpage administratif et par sexe,TOGOME,Total,Nombre,2022,23145,TOGOME,sous_region
+Population résidente par découpage administratif et par sexe,KELEGOUGAN DIGBLE,Total,Nombre,2022,6216,KELEGOUGAN DIGBLE,sous_region
+Population résidente par découpage administratif et par sexe,DJIGBLE,Total,Nombre,2022,11680,DJIGBLE,sous_region
+Population résidente par découpage administratif et par sexe,NYAVIME AVEYIME,Total,Nombre,2022,6259,NYAVIME AVEYIME,sous_region
+Population résidente par découpage administratif et par sexe,KITIDJAN,Total,Nombre,2022,12957,KITIDJAN,sous_region
+Population résidente par découpage administratif et par sexe,NYIVEME + APELEBUIME,Total,Nombre,2022,4727,NYIVEME + APELEBUIME,sous_region
+Population résidente par découpage administratif et par sexe,TOTSI NYIVEME,Total,Nombre,2022,14607,TOTSI NYIVEME,sous_region
+Population résidente par découpage administratif et par sexe,TOTSI KPATEFI,Total,Nombre,2022,6826,TOTSI KPATEFI,sous_region
+Population résidente par découpage administratif et par sexe,TOTSI KLEVEGBLE,Total,Nombre,2022,4261,TOTSI KLEVEGBLE,sous_region
+Population résidente par découpage administratif et par sexe,ANOMEGBLE,Total,Nombre,2022,9152,ANOMEGBLE,sous_region
+Population résidente par découpage administratif et par sexe,ANOME GBONVE,Total,Nombre,2022,9735,ANOME GBONVE,sous_region
+Population résidente par découpage administratif et par sexe,TELESSOU ADOKPO KOPE,Total,Nombre,2022,10808,TELESSOU ADOKPO KOPE,sous_region
+Population résidente par découpage administratif et par sexe,LOGOPE KPATEFI,Total,Nombre,2022,14966,LOGOPE KPATEFI,sous_region
+Population résidente par découpage administratif et par sexe,HOUMBIGBLE,Total,Nombre,2022,4267,HOUMBIGBLE,sous_region
+Population résidente par découpage administratif et par sexe,AHONGAKOPE ASSIYEYE,Total,Nombre,2022,5188,AHONGAKOPE ASSIYEYE,sous_region
+Population résidente par découpage administratif et par sexe,KLEVE,Total,Nombre,2022,6081,KLEVE,sous_region
+Population résidente par découpage administratif et par sexe,ATSANVE,Total,Nombre,2022,8216,ATSANVE,sous_region
+Population résidente par découpage administratif et par sexe,DEMAKPOE,Total,Nombre,2022,22858,DEMAKPOE,sous_region
+Population résidente par découpage administratif et par sexe,APEGNIGBI,Total,Nombre,2022,7222,APEGNIGBI,sous_region
+Population résidente par découpage administratif et par sexe,FIOVI,Total,Nombre,2022,10202,FIOVI,sous_region
+Population résidente par découpage administratif et par sexe,LOGOPE ATSANVE,Total,Nombre,2022,5630,LOGOPE ATSANVE,sous_region
+Population résidente par découpage administratif et par sexe,LOGOPE,Total,Nombre,2022,6101,LOGOPE,sous_region
+Population résidente par découpage administratif et par sexe,ANOKUI,Total,Nombre,2022,2197,ANOKUI,sous_region
+Population résidente par découpage administratif et par sexe,ANOKUI NOGO,Total,Nombre,2022,13384,ANOKUI NOGO,sous_region
+Population résidente par découpage administratif et par sexe,SOGBOSSITO,Total,Nombre,2022,11798,SOGBOSSITO,sous_region
+Population résidente par découpage administratif et par sexe,KOVE APELEBUIME,Total,Nombre,2022,2627,KOVE APELEBUIME,sous_region
+Population résidente par découpage administratif et par sexe,SOGBOSSITO AZIALE KOPE,Total,Nombre,2022,1942,SOGBOSSITO AZIALE KOPE,sous_region
+Population résidente par découpage administratif et par sexe,ANOKUI KOME KOPE,Total,Nombre,2022,1896,ANOKUI KOME KOPE,sous_region
+Population résidente par découpage administratif et par sexe,APELEBUIME,Total,Nombre,2022,847,APELEBUIME,sous_region
+Population résidente par découpage administratif et par sexe,DARA KOPE,Total,Nombre,2022,3818,DARA KOPE,sous_region
+Population résidente par découpage administratif et par sexe,GNAMASSIGAN,Total,Nombre,2022,6893,GNAMASSIGAN,sous_region
+Population résidente par découpage administratif et par sexe,KLEVE APENYIGBE,Total,Nombre,2022,3970,KLEVE APENYIGBE,sous_region
+Population résidente par découpage administratif et par sexe,KLEVE ASSIYEYE,Total,Nombre,2022,9314,KLEVE ASSIYEYE,sous_region
+Population résidente par découpage administratif et par sexe,KPATEFI ADIDODOKPO,Total,Nombre,2022,2252,KPATEFI ADIDODOKPO,sous_region
+Population résidente par découpage administratif et par sexe,TELESSOU AGBODEKA KOPE,Total,Nombre,2022,9670,TELESSOU AGBODEKA KOPE,sous_region
+Population résidente par découpage administratif et par sexe,AZOGBEGAN,Total,Nombre,2022,5347,AZOGBEGAN,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 2,Total,Nombre,2022,128164,AGOE-NYIVE 2,sous_region
+Population résidente par découpage administratif et par sexe,LEGBASSITO,Total,Nombre,2022,13516,LEGBASSITO,sous_region
+Population résidente par découpage administratif et par sexe,AGOSSITO,Total,Nombre,2022,2914,AGOSSITO,sous_region
+Population résidente par découpage administratif et par sexe,AHONKPOE,Total,Nombre,2022,16467,AHONKPOE,sous_region
+Population résidente par découpage administratif et par sexe,YOHONOU,Total,Nombre,2022,1577,YOHONOU,sous_region
+Population résidente par découpage administratif et par sexe,KOVE SIVAGNON KOPE,Total,Nombre,2022,9065,KOVE SIVAGNON KOPE,sous_region
+Population résidente par découpage administratif et par sexe,KPOKPLOVIME,Total,Nombre,2022,8232,KPOKPLOVIME,sous_region
+Population résidente par découpage administratif et par sexe,DALIME,Total,Nombre,2022,1456,DALIME,sous_region
+Population résidente par découpage administratif et par sexe,DALIKO,Total,Nombre,2022,16109,DALIKO,sous_region
+Population résidente par découpage administratif et par sexe,AMEDENTA AKI KOPE,Total,Nombre,2022,3191,AMEDENTA AKI KOPE,sous_region
+Population résidente par découpage administratif et par sexe,AMADENTA ANAGLI KOPE,Total,Nombre,2022,2188,AMADENTA ANAGLI KOPE,sous_region
+Population résidente par découpage administratif et par sexe,DOUTHE KOPE,Total,Nombre,2022,2215,DOUTHE KOPE,sous_region
+Population résidente par découpage administratif et par sexe,ASSIKO,Total,Nombre,2022,2268,ASSIKO,sous_region
+Population résidente par découpage administratif et par sexe,BOKPOKO,Total,Nombre,2022,1289,BOKPOKO,sous_region
+Population résidente par découpage administratif et par sexe,SILIVI KOPE OU ADIDOME,Total,Nombre,2022,4767,SILIVI KOPE OU ADIDOME,sous_region
+Population résidente par découpage administratif et par sexe,AVINATO,Total,Nombre,2022,3504,AVINATO,sous_region
+Population résidente par découpage administratif et par sexe,ATHIEME AHONKPOE,Total,Nombre,2022,8104,ATHIEME AHONKPOE,sous_region
+Population résidente par découpage administratif et par sexe,ATHIEME,Total,Nombre,2022,8384,ATHIEME,sous_region
+Population résidente par découpage administratif et par sexe,MADJIKPETO,Total,Nombre,2022,6446,MADJIKPETO,sous_region
+Population résidente par découpage administratif et par sexe,ZOVADJIN,Total,Nombre,2022,4555,ZOVADJIN,sous_region
+Population résidente par découpage administratif et par sexe,KOVE AHONDJI KOPE,Total,Nombre,2022,11917,KOVE AHONDJI KOPE,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 3,Total,Nombre,2022,47554,AGOE-NYIVE 3,sous_region
+Population résidente par découpage administratif et par sexe,ATSANVE,Total,Nombre,2022,8969,ATSANVE,sous_region
+Population résidente par découpage administratif et par sexe,AWOUDJA KOPE,Total,Nombre,2022,24218,AWOUDJA KOPE,sous_region
+Population résidente par découpage administratif et par sexe,ELAVANYO ATSANVE,Total,Nombre,2022,7707,ELAVANYO ATSANVE,sous_region
+Population résidente par découpage administratif et par sexe,ELAVANYO KLEVE,Total,Nombre,2022,2714,ELAVANYO KLEVE,sous_region
+Population résidente par découpage administratif et par sexe,HOSSOUKOPE,Total,Nombre,2022,3946,HOSSOUKOPE,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 4,Total,Nombre,2022,154431,AGOE-NYIVE 4,sous_region
+Population résidente par découpage administratif et par sexe,TOGBLE CENTRE,Total,Nombre,2022,5839,TOGBLE CENTRE,sous_region
+Population résidente par découpage administratif et par sexe,FIDOKPUI,Total,Nombre,2022,15097,FIDOKPUI,sous_region
+Population résidente par découpage administratif et par sexe,GUENOU KOPE,Total,Nombre,2022,14383,GUENOU KOPE,sous_region
+Population résidente par découpage administratif et par sexe,DIKAME,Total,Nombre,2022,16203,DIKAME,sous_region
+Population résidente par découpage administratif et par sexe,BOKOR KOPE,Total,Nombre,2022,19051,BOKOR KOPE,sous_region
+Population résidente par découpage administratif et par sexe,KOTOKOLI ZONZO,Total,Nombre,2022,11492,KOTOKOLI ZONZO,sous_region
+Population résidente par découpage administratif et par sexe,HAOUSSA ZONGO,Total,Nombre,2022,12509,HAOUSSA ZONGO,sous_region
+Population résidente par découpage administratif et par sexe,DJELEDZI,Total,Nombre,2022,16076,DJELEDZI,sous_region
+Population résidente par découpage administratif et par sexe,DEGOME,Total,Nombre,2022,11166,DEGOME,sous_region
+Population résidente par découpage administratif et par sexe,AKOIN,Total,Nombre,2022,11373,AKOIN,sous_region
+Population résidente par découpage administratif et par sexe,ATSANVE,Total,Nombre,2022,1566,ATSANVE,sous_region
+Population résidente par découpage administratif et par sexe,AVEYIME,Total,Nombre,2022,889,AVEYIME,sous_region
+Population résidente par découpage administratif et par sexe,ALINKA,Total,Nombre,2022,7961,ALINKA,sous_region
+Population résidente par découpage administratif et par sexe,ALINKA NYIVEMEGBLE,Total,Nombre,2022,4932,ALINKA NYIVEMEGBLE,sous_region
+Population résidente par découpage administratif et par sexe,TOWOUGANOU,Total,Nombre,2022,1997,TOWOUGANOU,sous_region
+Population résidente par découpage administratif et par sexe,KPEDEVI KOPE,Total,Nombre,2022,3897,KPEDEVI KOPE,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 5,Total,Nombre,2022,125097,AGOE-NYIVE 5,sous_region
+Population résidente par découpage administratif et par sexe,KOHE,Total,Nombre,2022,12626,KOHE,sous_region
+Population résidente par découpage administratif et par sexe,KLEME SANGUERA,Total,Nombre,2022,6085,KLEME SANGUERA,sous_region
+Population résidente par découpage administratif et par sexe,ATIGAN COPE,Total,Nombre,2022,7627,ATIGAN COPE,sous_region
+Population résidente par découpage administratif et par sexe,DEKPO SANGUERA,Total,Nombre,2022,3803,DEKPO SANGUERA,sous_region
+Population résidente par découpage administratif et par sexe,ANYIGBE,Total,Nombre,2022,4799,ANYIGBE,sous_region
+Population résidente par découpage administratif et par sexe,VOGOME,Total,Nombre,2022,5144,VOGOME,sous_region
+Population résidente par découpage administratif et par sexe,KOPEGAN,Total,Nombre,2022,5346,KOPEGAN,sous_region
+Population résidente par découpage administratif et par sexe,AGBLELIKO,Total,Nombre,2022,2736,AGBLELIKO,sous_region
+Population résidente par découpage administratif et par sexe,AFIADEGNIGBA,Total,Nombre,2022,4257,AFIADEGNIGBA,sous_region
+Population résidente par découpage administratif et par sexe,KLIKAME,Total,Nombre,2022,5287,KLIKAME,sous_region
+Population résidente par découpage administratif et par sexe,DANGBESSITO,Total,Nombre,2022,8307,DANGBESSITO,sous_region
+Population résidente par découpage administratif et par sexe,TAGA KOPE,Total,Nombre,2022,5046,TAGA KOPE,sous_region
+Population résidente par découpage administratif et par sexe,SANYRAKO,Total,Nombre,2022,10285,SANYRAKO,sous_region
+Population résidente par découpage administratif et par sexe,EZION KOPE,Total,Nombre,2022,2065,EZION KOPE,sous_region
+Population résidente par découpage administratif et par sexe,ZOPOMAHE,Total,Nombre,2022,12497,ZOPOMAHE,sous_region
+Population résidente par découpage administratif et par sexe,NANEGBE,Total,Nombre,2022,8238,NANEGBE,sous_region
+Population résidente par découpage administratif et par sexe,NANEGBE ZOSSIME,Total,Nombre,2022,7388,NANEGBE ZOSSIME,sous_region
+Population résidente par découpage administratif et par sexe,TSROKPOSSIME,Total,Nombre,2022,6798,TSROKPOSSIME,sous_region
+Population résidente par découpage administratif et par sexe,ASSIGOME,Total,Nombre,2022,2500,ASSIGOME,sous_region
+Population résidente par découpage administratif et par sexe,LOGOGOME,Total,Nombre,2022,4263,LOGOGOME,sous_region
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 6,Total,Nombre,2022,110194,AGOE-NYIVE 6,sous_region
+Population résidente par découpage administratif et par sexe,ADETIKOPE-CENTRE,Total,Nombre,2022,18033,ADETIKOPE-CENTRE,sous_region
+Population résidente par découpage administratif et par sexe,AGNAVE,Total,Nombre,2022,7312,AGNAVE,sous_region
+Population résidente par découpage administratif et par sexe,DEVIME,Total,Nombre,2022,10545,DEVIME,sous_region
+Population résidente par découpage administratif et par sexe,DZOVE,Total,Nombre,2022,6202,DZOVE,sous_region
+Population résidente par découpage administratif et par sexe,ADOGLOVE,Total,Nombre,2022,4303,ADOGLOVE,sous_region
+Population résidente par découpage administratif et par sexe,LOMENYO KOPE,Total,Nombre,2022,4195,LOMENYO KOPE,sous_region
+Population résidente par découpage administratif et par sexe,KPOKPOME-AGUTE,Total,Nombre,2022,27993,KPOKPOME-AGUTE,sous_region
+Population résidente par découpage administratif et par sexe,AGOTIME,Total,Nombre,2022,3824,AGOTIME,sous_region
+Population résidente par découpage administratif et par sexe,KLADJEME,Total,Nombre,2022,8624,KLADJEME,sous_region
+Population résidente par découpage administratif et par sexe,KPOTAVE,Total,Nombre,2022,11064,KPOTAVE,sous_region
+Population résidente par découpage administratif et par sexe,TONOUKOUTI,Total,Nombre,2022,4862,TONOUKOUTI,sous_region
+Population résidente par découpage administratif et par sexe,TSIKPLONOU-KONDJI,Total,Nombre,2022,3237,TSIKPLONOU-KONDJI,sous_region

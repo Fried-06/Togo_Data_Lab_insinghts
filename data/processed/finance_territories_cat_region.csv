@@ -1,0 +1,15 @@
+﻿region_normalisee,activite_categorie,nb_etablissements
+CENTRALE,Banque,21
+CENTRALE,Micro-Finance,42
+KARA,Assurance,8
+KARA,Banque,37
+KARA,Micro-Finance,40
+MARITIME,Assurance,54
+MARITIME,Banque,141
+MARITIME,Micro-Finance,212
+MARITIME,Mutuelle,9
+PLATEAUX,Assurance,7
+PLATEAUX,Banque,24
+PLATEAUX,Micro-Finance,81
+SAVANES,Banque,24
+SAVANES,Micro-Finance,38
