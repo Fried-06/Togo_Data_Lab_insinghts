@@ -83,6 +83,72 @@
   --shadow-card: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
 }
 
+/* --------------------------------------------------------------------------
+   THEME OCEAN - Tons bleus profonds professionnels
+   -------------------------------------------------------------------------- */
+.theme-ocean {
+  --bg-main: #0A1628;
+  --surface: #0F2040;
+  --surface-alt: #0A1628;
+  --border: #1E3A5F;
+  --border-subtle: #0F2040;
+  --border-focus: #3B82F6;
+
+  --text-primary: #E2EEFF;
+  --text-secondary: #A3BFDB;
+  --text-muted: #6B8CAE;
+
+  --c-vert-light: rgba(5, 150, 105, 0.15);
+  --c-vert-border: #059669;
+
+  --c-jaune-light: rgba(217, 119, 6, 0.15);
+  --c-jaune-border: #D97706;
+
+  --c-rouge-light: rgba(220, 38, 38, 0.15);
+  --c-rouge-border: #DC2626;
+
+  --c-bleu-light: rgba(29, 78, 216, 0.2);
+  --c-bleu-border: #3B82F6;
+
+  --c-violet-light: rgba(109, 40, 217, 0.2);
+  --c-violet-border: #7C3AED;
+
+  --shadow-card: 0 1px 4px 0 rgba(0, 0, 0, 0.4);
+}
+
+/* --------------------------------------------------------------------------
+   THEME SAVANE - Tons chauds neutres professionnels
+   -------------------------------------------------------------------------- */
+.theme-savane {
+  --bg-main: #FAF5EB;
+  --surface: #FFFFFF;
+  --surface-alt: #F5EDD8;
+  --border: #D9C9A8;
+  --border-subtle: #EDE3CB;
+  --border-focus: #A07840;
+
+  --text-primary: #2C1E0F;
+  --text-secondary: #5C4428;
+  --text-muted: #8C6840;
+
+  --c-vert-light: #D4EDD4;
+  --c-vert-border: #5A9B5A;
+
+  --c-jaune-light: #FDF0C8;
+  --c-jaune-border: #C4940A;
+
+  --c-rouge-light: #FDDEDE;
+  --c-rouge-border: #C44040;
+
+  --c-bleu-light: #D4E4F0;
+  --c-bleu-border: #3A6A90;
+
+  --c-violet-light: #EAD8F5;
+  --c-violet-border: #6040A0;
+
+  --shadow-card: 0 1px 3px 0 rgba(100, 60, 0, 0.08);
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -610,6 +676,217 @@ main#page-content {
   background-color: #334155 !important;
 }
 
+
 .theme-dark .Select-arrow {
   border-color: #94A3B8 transparent transparent !important;
 }
+
+/* --------------------------------------------------------------------------
+   THEME OCEAN / SAVANE : adaptation Dash Dropdown
+   -------------------------------------------------------------------------- */
+.theme-ocean .Select-control,
+.theme-savane .Select-control {
+  background-color: var(--surface) !important;
+  border-color: var(--border) !important;
+  color: var(--text-primary) !important;
+}
+.theme-ocean .Select-value-label,
+.theme-ocean .Select-placeholder,
+.theme-ocean .Select-input > input,
+.theme-savane .Select-value-label,
+.theme-savane .Select-placeholder,
+.theme-savane .Select-input > input {
+  color: var(--text-primary) !important;
+}
+.theme-ocean .Select-menu-outer,
+.theme-savane .Select-menu-outer {
+  background-color: var(--surface) !important;
+  border-color: var(--border) !important;
+}
+.theme-ocean .Select-option,
+.theme-savane .Select-option {
+  background-color: var(--surface) !important;
+  color: var(--text-primary) !important;
+}
+.theme-ocean .Select-option:hover,
+.theme-ocean .Select-option.is-focused,
+.theme-savane .Select-option:hover,
+.theme-savane .Select-option.is-focused {
+  background-color: var(--surface-alt) !important;
+}
+
+/* --------------------------------------------------------------------------
+   SELECTEUR DE THEME dans la navbar
+   -------------------------------------------------------------------------- */
+.theme-selector-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+/* --------------------------------------------------------------------------
+   ANIMATIONS DISCRETES
+   Animation d'apparition de la page principale
+   -------------------------------------------------------------------------- */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.main-container {
+  animation: fadeInUp 0.22s ease-out both;
+}
+
+/* Hover subtil sur les cartes */
+.card-box {
+  transition: box-shadow 0.2s ease, transform 0.2s ease,
+              background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.card-box:hover {
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.07);
+  transform: translateY(-1px);
+}
+
+/* KPI hover */
+.kpi-card {
+  transition: box-shadow 0.2s ease, transform 0.2s ease,
+              background-color 0.2s ease;
+}
+.kpi-card:hover {
+  box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+/* Boutons */
+button, .nav-tab-item, .theme-toggle-btn {
+  transition: all 0.18s ease;
+}
+
+/* Transition douce changement de theme */
+.card-box, .kpi-card, .header-wrapper, .nav-tabs-wrapper,
+.control-panel, .observation-box, .data-table-simple {
+  transition: background-color 0.25s ease, border-color 0.25s ease,
+              color 0.25s ease, box-shadow 0.2s ease;
+}
+
+/* --------------------------------------------------------------------------
+   ETAT VIDE (aucune donnee disponible)
+   -------------------------------------------------------------------------- */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px;
+  color: var(--text-muted);
+  text-align: center;
+  gap: 12px;
+}
+
+.empty-state-icon {
+  width: 40px;
+  height: 40px;
+  color: var(--border);
+}
+
+.empty-state-text {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+/* --------------------------------------------------------------------------
+   ACCESSIBILITE : prefers-reduced-motion
+   -------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .main-container {
+    animation: none;
+  }
+  .card-box:hover,
+  .kpi-card:hover {
+    transform: none;
+  }
+  .card-box, .kpi-card, .header-wrapper, .nav-tabs-wrapper,
+  .control-panel, .observation-box, .data-table-simple,
+  button, .nav-tab-item, .theme-toggle-btn {
+    transition: none;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   RESPONSIVE TABLETTE ET MOBILE
+   -------------------------------------------------------------------------- */
+@media (max-width: 900px) {
+  .grid-4 {
+    grid-template-columns: 1fr 1fr;
+  }
+  .grid-2-1,
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+  .header-top {
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 16px;
+  }
+  .header-right-actions {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .brand-subtitle {
+    display: none;
+  }
+  .control-panel {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav-tabs-wrapper {
+    padding: 0 12px;
+  }
+  .main-container {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 600px) {
+  .grid-4 {
+    grid-template-columns: 1fr;
+  }
+  .brand-title {
+    font-size: 15px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   BOUTON DE THEME : icone CSS pure (point colore, sans SVG ni emoji)
+   -------------------------------------------------------------------------- */
+.toggle-icon {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 1.5px solid currentColor;
+  opacity: 0.75;
+}
+
+/* En mode clair : icone pleine (soleil) = cercle plein jaune */
+.toggle-icon.mode-clair {
+  background-color: #F59E0B;
+  border-color: #D97706;
+  opacity: 1;
+}
+
+/* En mode sombre : icone vide (lune) = demi-cercle via clip */
+.toggle-icon.mode-sombre {
+  background: linear-gradient(135deg, #A5B4FC 50%, transparent 50%);
+  border-color: #818CF8;
+  opacity: 1;
+}
+

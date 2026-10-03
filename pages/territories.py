@@ -153,35 +153,41 @@ def register_callbacks(app):
                 selected_region = match_row["region"].values[0]
                 
         # Construction de la carte Choropleth
+        # Utilisation de go.Choroplethmap (API MapLibre/OpenStreetMap) :
+        # - Ne requiert aucun token Mapbox
+        # - Fonctionne identiquement en local et sur Plotly Cloud
+        # - "open-street-map" est résolu côté client, sans appel externe bloquant
         line_color = "#1E293B" if is_dark else "#FFFFFF"
-        fig = go.Figure(go.Choroplethmapbox(
+        map_style = "carto-darkmatter" if is_dark else "open-street-map"
+
+        fig = go.Figure(go.Choroplethmap(
             geojson=geojson,
             locations=df_reg["shapeISO"],
             z=df_reg[indicator_key],
             featureidkey="properties.shapeISO",
             colorscale=cfg["colorscale"],
             text=df_reg["region_label"],
-            marker_opacity=0.88,
+            marker_opacity=0.85,
             marker_line_width=1.5,
             marker_line_color=line_color,
             hovertemplate="<b>%{text}</b><br>" + cfg["label"] + " : <b>%{z}</b> " + cfg["unit"] + "<extra></extra>"
         ))
-        
-        colorbar_bg = "rgba(30, 41, 59, 0.9)" if is_dark else "rgba(255, 255, 255, 0.9)"
+
+        colorbar_bg = "rgba(15, 23, 42, 0.92)" if is_dark else "rgba(255, 255, 255, 0.92)"
         colorbar_border = "#475569" if is_dark else COLORS["border"]
         colorbar_text = "#F3F4F6" if is_dark else COLORS["text_secondary"]
 
         fig.update_layout(
-            mapbox_style="white-bg" if not is_dark else "carto-darkmatter",
-            mapbox_zoom=6.1,
-            mapbox_center={"lat": 8.65, "lon": 1.05},
+            map_style=map_style,
+            map_zoom=6.0,
+            map_center={"lat": 8.65, "lon": 1.05},
             margin=dict(l=0, r=0, t=10, b=10),
             paper_bgcolor="rgba(0,0,0,0)",
             coloraxis_colorbar=dict(
                 title=dict(text=cfg["unit"], font=dict(size=11, color=colorbar_text)),
                 tickfont=dict(size=10, color=colorbar_text),
                 thickness=12,
-                len=0.75,
+                len=0.72,
                 bgcolor=colorbar_bg,
                 bordercolor=colorbar_border,
                 borderwidth=1

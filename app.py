@@ -2,12 +2,12 @@
 app.py
 ======
 TOGO DIGITAL INSIGHT
-Observatoire interactif de l'inclusion numérique et financière au Togo.
+Observatoire interactif de l'inclusion numerique et financiere au Togo.
 
-Point d'entrée principal Dash avec support Mode Clair / Mode Sombre.
+Point d'entree principal Dash avec support de 4 themes visuels.
 """
 
-from dash import Dash, html, dcc, Input, Output, State
+from dash import Dash, html, dcc, Input, Output, State, ctx
 import sys
 from pathlib import Path
 
@@ -18,7 +18,7 @@ if str(ROOT_DIR) not in sys.path:
 from components.navbar import create_header
 from components.footer import create_footer
 
-# Import des 7 pages
+# Import des 8 pages (ajout de methodology)
 from pages import (
     overview,
     internet,
@@ -26,13 +26,14 @@ from pages import (
     territories,
     finance,
     diagnostic,
-    recommendations
+    recommendations,
+    methodology
 )
 
 # Initialisation de l'application Dash
 app = Dash(
     __name__,
-    title="TOGO DIGITAL INSIGHT — Observatoire de l'Inclusion Numérique & Financière",
+    title="TOGO DIGITAL INSIGHT - Observatoire de l'Inclusion Numerique et Financiere",
     suppress_callback_exceptions=True,
     update_title="Chargement...",
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}]
@@ -48,7 +49,15 @@ territories.register_callbacks(app)
 finance.register_callbacks(app)
 diagnostic.register_callbacks(app)
 
-# Structure globale de l'application avec dcc.Store pour le thème
+# Correspondance theme -> classe CSS
+THEME_CLASS_MAP = {
+    "light":  "theme-light",
+    "dark":   "theme-dark",
+    "ocean":  "theme-ocean",
+    "savane": "theme-savane",
+}
+
+# Structure globale de l'application
 app.layout = html.Div(
     id="app-root",
     className="theme-light",
@@ -61,27 +70,46 @@ app.layout = html.Div(
     ]
 )
 
-# Callback pour basculer entre Mode Clair et Mode Sombre
+
+# -----------------------------------------------------------------
+# Callback 1 : Mise a jour du theme depuis le selecteur dropdown
+# -----------------------------------------------------------------
 @app.callback(
     Output("theme-store", "data"),
-    Input("theme-toggle-btn", "n_clicks"),
+    [Input("theme-selector-dropdown", "value"),
+     Input("theme-toggle-btn", "n_clicks")],
     State("theme-store", "data"),
     prevent_initial_call=True
 )
-def toggle_theme(n_clicks, current_theme):
-    if not n_clicks:
-        return current_theme or "light"
-    return "dark" if current_theme == "light" else "light"
+def update_theme(dropdown_value, toggle_clicks, current_theme):
+    """
+    Deux declencheurs :
+    - theme-selector-dropdown : selecteur explicite parmi 4 themes
+    - theme-toggle-btn        : bascule rapide clair <-> sombre
+    """
+    triggered = ctx.triggered_id
+    if triggered == "theme-selector-dropdown" and dropdown_value:
+        return dropdown_value
+    if triggered == "theme-toggle-btn":
+        # Bascule: si actif = light/ocean/savane -> dark, si dark -> light
+        return "dark" if current_theme != "dark" else "light"
+    return current_theme or "light"
 
-# Callback pour adapter la classe CSS globale du conteneur #app-root
+
+# -----------------------------------------------------------------
+# Callback 2 : Classe CSS globale selon le theme
+# -----------------------------------------------------------------
 @app.callback(
     Output("app-root", "className"),
     Input("theme-store", "data")
 )
 def update_root_theme_class(theme_data):
-    return "theme-dark" if theme_data == "dark" else "theme-light"
+    return THEME_CLASS_MAP.get(theme_data, "theme-light")
 
-# Callback de routage et affichage de la page et du header
+
+# -----------------------------------------------------------------
+# Callback 3 : Routage et affichage de la page + header
+# -----------------------------------------------------------------
 @app.callback(
     [Output("page-content", "children"),
      Output("header-container", "children")],
@@ -90,38 +118,48 @@ def update_root_theme_class(theme_data):
 )
 def display_page(pathname, theme_data):
     is_dark = (theme_data == "dark")
+    theme = theme_data or "light"
     active_path = pathname if pathname else "/"
 
-    if not pathname or pathname == "/":
-        content = overview.layout()
-    elif pathname == "/internet":
-        content = internet.layout()
-    elif pathname == "/connectivity":
-        content = connectivity.layout()
-    elif pathname == "/territories":
-        content = territories.layout()
-    elif pathname == "/finance":
-        content = finance.layout()
-    elif pathname == "/diagnostic":
-        content = diagnostic.layout()
-    elif pathname == "/recommendations":
-        content = recommendations.layout()
+    route_map = {
+        "/":               overview.layout,
+        "/internet":       internet.layout,
+        "/connectivity":   connectivity.layout,
+        "/territories":    territories.layout,
+        "/finance":        finance.layout,
+        "/diagnostic":     diagnostic.layout,
+        "/recommendations": recommendations.layout,
+        "/methodology":    methodology.layout,
+    }
+
+    layout_fn = route_map.get(active_path)
+    if layout_fn:
+        content = layout_fn()
     else:
         content = html.Div(
             className="main-container",
             style={"textAlign": "center", "padding": "80px 20px"},
             children=[
-                html.H2("Page non trouvée (404)", style={"fontSize": "28px", "fontWeight": "700", "color": "var(--text-primary)", "marginBottom": "12px"}),
-                html.P("La section demandée n'existe pas dans l'observatoire.", style={"color": "var(--text-muted)", "marginBottom": "24px"}),
-                dcc.Link("Retourner à la Vue d'ensemble", href="/", className="nav-tab-item active")
+                html.H2(
+                    "Page non trouvee (404)",
+                    style={"fontSize": "28px", "fontWeight": "700",
+                           "color": "var(--text-primary)", "marginBottom": "12px"}
+                ),
+                html.P(
+                    "La section demandee n'existe pas dans l'observatoire.",
+                    style={"color": "var(--text-muted)", "marginBottom": "24px"}
+                ),
+                dcc.Link("Retourner a la Vue d'ensemble", href="/", className="nav-tab-item active")
             ]
         )
 
-    return content, create_header(active_path=active_path, is_dark=is_dark)
+    header = create_header(active_path=active_path, is_dark=is_dark, theme=theme)
+    return content, header
+
 
 if __name__ == "__main__":
     print("=" * 80)
-    print("  TOGO DIGITAL INSIGHT — Démarrage du serveur Dash...")
-    print("  Accès local : http://127.0.0.1:8050/")
+    print("  TOGO DIGITAL INSIGHT - Demarrage du serveur Dash...")
+    print("  Acces local : http://127.0.0.1:8050/")
     print("=" * 80)
     app.run(debug=True, host="127.0.0.1", port=8050, use_reloader=False)

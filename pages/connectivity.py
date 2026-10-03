@@ -184,14 +184,14 @@ def layout():
                         question="TRANSITION TECHNOLOGIQUE MOBILE",
                         title="Bascule des réseaux mobiles : de la 2G vers la 3G/4G",
                         chart_component=dcc.Graph(id="connectivity-tech-chart", config={"displayModeBar": False}),
-                        source="ARCEP Togo — Données déclaratives opérateurs",
+                        source="ARCEP Togo - Données déclaratives opérateurs",
                         subtitle="Remplacement progressif de la 2G par la 3G à partir de 2016, puis introduction de la 4G en 2018"
                     ),
                     create_chart_box(
                         question="INTERNET FIXE ET FIBRE OPTIQUE",
                         title="Mutation des technologies d'accès fixe",
                         chart_component=dcc.Graph(id="connectivity-fixed-chart", config={"displayModeBar": False}),
-                        source="ARCEP Togo — Données des FAI et opérateurs",
+                        source="ARCEP Togo - Données des FAI et opérateurs",
                         subtitle="Le FTTH et les réseaux alternatifs (GVA) prennent le relais de l'ADSL historique"
                     )
                 ]
@@ -202,7 +202,7 @@ def layout():
                 question="DYNAMIQUE CONCURRENTIELLE DU SECTEUR",
                 title="Parts de marché des abonnés GSM au Togo (Togocom vs Moov)",
                 chart_component=dcc.Graph(id="connectivity-operator-chart", config={"displayModeBar": False}),
-                source="ARCEP Togo — Rapports annuels d'activité 2013-2019",
+                source="ARCEP Togo - Rapports annuels d'activité 2013-2019",
                 subtitle="Un duopole compétitif : bascule en 2018 avec Moov à 55.4%, puis rééquilibrage en 2019 (51.4% Togocom)"
             )
         ]
