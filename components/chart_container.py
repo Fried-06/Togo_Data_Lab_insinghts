@@ -30,7 +30,7 @@ def create_chart_box(question, title, chart_component, source, subtitle=None):
                 className="card-footer-source",
                 children=[
                     html.Span(f"Source : {source}"),
-                    html.Span("Togo Digital Insight — Observatoire national")
+                    html.Span("Togo Digital Insight - Observatoire national")
                 ]
             )
         ]

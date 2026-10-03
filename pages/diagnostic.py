@@ -55,7 +55,7 @@ def layout():
                 question="DISPARITÉS RELATIVES FACE À LA NORME NATIONALE",
                 title="Écart en pourcentage (%) à la moyenne nationale pondérée",
                 chart_component=dcc.Graph(id="diagnostic-gap-chart", config={"displayModeBar": False}),
-                source="Calculs Togo Digital Insight — Données certifiées RGPH-5 (2022) & Relevés de terrain (2024-2025)",
+                source="Calculs Togo Digital Insight - Donnees certifiees RGPH-5 (2022) et Releves de terrain (2024-2025)",
                 subtitle="La ligne centrale (0%) représente la moyenne nationale togolaise. Les barres à gauche indiquent un sous-équipement relatif."
             ),
             

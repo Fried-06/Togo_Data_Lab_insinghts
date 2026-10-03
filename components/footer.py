@@ -23,14 +23,14 @@ def create_footer():
                 style={"maxWidth": "1400px", "margin": "0 auto", "display": "grid", "gridTemplateColumns": "2fr 1fr 1fr", "gap": "32px"},
                 children=[
                     html.Div([
-                        html.H4("TOGO DIGITAL INSIGHT — OBSERVATOIRE DE DONNÉES", style={"fontSize": "14px", "fontWeight": "700", "color": "var(--text-primary)", "marginBottom": "8px"}),
+                        html.H4("TOGO DIGITAL INSIGHT - OBSERVATOIRE DE DONNEES", style={"fontSize": "14px", "fontWeight": "700", "color": "var(--text-primary)", "marginBottom": "8px"}),
                         html.P(
                             "Outil d'intelligence territoriale et d'aide à la décision publique pour le suivi "
                             "de la connectivité Internet, du déploiement des infrastructures télécoms et de "
                             "la bancarisation numérique au Togo.",
                             style={"lineHeight": "1.5", "marginBottom": "12px", "color": "var(--text-secondary)"}
                         ),
-                        html.P("© 2026 TogoAI Labs — Développé selon les principes de transparence et de rigueur statistique.", style={"fontSize": "12px", "color": "var(--text-muted)"})
+                        html.P("© 2026 TogoAI Labs. Developpe selon les principes de transparence et de rigueur statistique.", style={"fontSize": "12px", "color": "var(--text-muted)"})
                     ]),
                     html.Div([
                         html.H4("SOURCES PRIMAIRES", style={"fontSize": "12px", "fontWeight": "700", "color": "var(--text-primary)", "textTransform": "uppercase", "letterSpacing": "0.04em", "marginBottom": "8px"}),
