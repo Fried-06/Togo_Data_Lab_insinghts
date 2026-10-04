@@ -37,9 +37,9 @@ def create_footer():
                         html.Ul(
                             style={"listStyle": "none", "padding": 0, "lineHeight": "1.8", "color": "var(--text-secondary)"},
                             children=[
-                                html.Li("• INSEED Togo — RGPH-5 (2022)"),
-                                html.Li("• ARCEP Togo — Rapports annuels (2013-2019)"),
-                                html.Li("• Banque Mondiale / ITU — WDI (1960-2023)"),
+                                html.Li("• INSEED Togo- RGPH-5 (2022)"),
+                                html.Li("• ARCEP Togo-Rapports annuels (2013-2019)"),
+                                html.Li("• Banque Mondiale / ITU-WDI (1960-2023)"),
                                 html.Li("• Données terrain Mobile Money (Déc. 2024)"),
                                 html.Li("• Répertoire Établissements Financiers (Jan. 2025)")
                             ]
